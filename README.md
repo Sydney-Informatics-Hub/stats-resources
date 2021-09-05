@@ -12,9 +12,7 @@ Our team:
 
 [Read more information about our team](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/our-staff.html). We work within the Sydney Informatics Hub Core Research Facility team to support researchers and research students at the University of Sydney.
 
-The Statistical Consulting Service provides tailored statistical advice to higher degree by research (HDR) students at the University of Sydney. We can also advise academics, researchers, affiliates and partners of the University. We do not currently provide statistical consulting to external clients.
-
-We invite those within the university and beyond to browse this list of resources, which include links to our favourite references and our own workshop slides.
+We invite those within the university and beyond to browse this list of resources, which include links to our favourite external resources and the [slides from our workshops](#our-workshops).
 
 ## References
 
@@ -66,4 +64,6 @@ Julious, S. A. “Sample sizes for clinical trials” [\@Sydney Uni library](htt
 
 Statistical Consulting within the Sydney Informatics Hub offers a modular training programme made up of 1.5 hour workshops, each focusing on a single statistical method. Statistical Workflows giving practical step-by-step instructions applicable in any software are used and include experimental design, exploratory analysis, modelling, assumption testing, model interpretation and presentation of results. They are integrated into Training Pathways to give a holistic understanding of data analysis from a statistical perspective. Researchers are also encouraged to design a custom programme tailored to their research needs.
 
-We continue to develop and improve our workshop offering using feedback and the changing needs of researchers we meet in our statistical consulting service. The date the workshop was delivered is shown, and these will be periodically updated.
+We continue to develop and improve our workshop offering using feedback and the needs we identify in our statistical consulting service. The workshops will be periodically updated. The date the workshop was delivered is shown.
+
+
