@@ -68,15 +68,15 @@ We continue to develop and improve our workshop offering using feedback and the 
 
 Currently available:
 
-* Research Essentials: Analysing your data by Kathrin Schemann 6/21 Attachment: Statistical analysis roadmap for SPSS
-* Experimental Design by Alex Shaw 8/21
-* Power and Sample Size calculation by Jim Matthews 8/21
-* Linear Models 1 by Chris Howden 5/21
-* Linear Models 2 by Chris Howden 5/21
-* Surveys 1 by Chris Howden 4/21
-* Surveys 2 by Chris Howden 4/21
-* Meta-Analysis by Jim Matthews 4/21
-* Survival Analysis by Jim Matthews 6/21
+* [Research Essentials: Analysing your data](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Research%20Essentials%20HANDOUT%20v3.7%2025-06-2021.pdf) by Kathrin Schemann 6/21 Attachment: Statistical analysis roadmap for SPSS
+* [Experimental Design](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Experimental%20Design%20v%201.21%20presented%2025-08-2021%20slides.pdf) by Alex Shaw 8/21
+* [Power and Sample Size Calculation](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Power%20and%20sample%20size%202021-08%20student.pdf) by Jim Matthews 8/21
+* [Linear Models 1](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20delivered%20v1.15%2024-5-2021.pdf) by Chris Howden 5/21
+* [Linear Models 2](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20introduction%20to%20Generalised%20Linear%20Models%20delivered%20v2%2026-5-2021.pdf) by Chris Howden 5/21
+* [Surveys 1](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.1%2023-4-2021.pdf) by Chris Howden 4/21
+* [Surveys 2](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1%2028-4-2021.pdf) by Chris Howden 4/21
+* [Meta-Analysis](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Meta-Analysis%202021-04%20student.pdf) by Jim Matthews 4/21
+* [Survival Analysis](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Introduction%20to%20Survival%20Analysis%202021-06%20student.pdf) by Jim Matthews 6/21
 
 Coming soon:
 
