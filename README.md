@@ -46,6 +46,18 @@ Julious, S. A. “Sample sizes for clinical trials” [\@Sydney Uni library](htt
 
 *Jim says: Clinical trials often involve testing variations on the classic hypothesis of a difference between groups.  The research question in a clinical trial might require a test of “equivalence”, “superiority” or “non-inferiority” for example.  This book by Julious sets out how to handle each option, including useful worked examples.*
 
+### Linear Models (ANOVA, Simple linear regression, multiple regression, etc)
+
+**[A series of introductory short videos from Stats Quest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)**
+
+*Chris says “A series of short usually 5-15min videos which simply explain a lot of the basics”*
+
+### Logistic Regression
+
+**[Logistic Regression short videos from Stats Quest](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)**
+
+*Chris says “A series of short 5-20min videos ranging from a simply introduction to more complex details”*
+
 ### Meta-Analysis
 
 **Borenstein, M. “Introduction to meta-analysis”** [\@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991002771109705106)
