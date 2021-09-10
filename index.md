@@ -42,7 +42,7 @@ Available for free download at the [G\*Power website](https://www.psychologie.hh
 *Jim says: There are lots of software options for sample size calculation depending on your needs. G\*Power does the job for a wide range of scenarios with a minimum of effort.*
 
 **Sample Size for Clinical Trials**
-Julious, S. A. “Sample sizes for clinical trials” [\@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991000960739705106)
+Julious, S. A. “Sample sizes for clinical trials” [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991000960739705106)
 
 *Jim says: Clinical trials often involve testing variations on the classic hypothesis of a difference between groups.  The research question in a clinical trial might require a test of “equivalence”, “superiority” or “non-inferiority” for example.  This book by Julious sets out how to handle each option, including useful worked examples.*
 
@@ -60,11 +60,11 @@ Julious, S. A. “Sample sizes for clinical trials” [\@Sydney Uni library](htt
 
 ### Meta-Analysis
 
-**Borenstein, M. “Introduction to meta-analysis”** [\@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991002771109705106)
+**Borenstein, M. “Introduction to meta-analysis”** [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991002771109705106)
 
 *Jim says: Borenstein is a world renowned expert on meta-analysis and is responsible for developing the Comprehensive Meta-Analysis (CMA) software tool. His book is well written and is always my first choice when looking for answers to meta-analysis questions.*
 
-**Higgins and Green (Editors) “Cochrane Handbook for Systematic Reviews of Interventions”** [\@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/1367smt/cdi_askewsholts_vlebooks_9780470712177)
+**Higgins and Green (Editors) “Cochrane Handbook for Systematic Reviews of Interventions”** [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/1367smt/cdi_askewsholts_vlebooks_9780470712177)
 
 *Jim says: Cochrane is an international network founded in 1993 that is without peer in promoting good scientific practice for systematic reviews of medical research.  If you follow the Cochrane handbook you can be assured your methods are rigorous, defensible and following best practice.*
 
