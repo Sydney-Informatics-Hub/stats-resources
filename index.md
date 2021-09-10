@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+# Statistical Resources from the Sydney Informatics Hub
 
-You can use the [editor on GitHub](https://github.com/sih-stats/resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Training Resources for Statistical Consulting Service, Sydney Informatics Hub, The University of Sydney.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Us
 
-### Markdown
+Our team:
+* Chris Howden, Team Lead
+* Jim Matthews, Senior Statistical Consultant
+* Kathrin Schemann, Statistical Consultant
+* Alex Shaw, Statistical Consultant
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Read more information about our team](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/our-staff.html). We work within the Sydney Informatics Hub Core Research Facility team to support researchers and research students at the University of Sydney.
 
-```markdown
-Syntax highlighted code block
+We invite those within the university and beyond to browse this list of resources, which include links to our favourite external resources and the [slides from our workshops](#our-workshops).
 
-# Header 1
-## Header 2
-### Header 3
+## References
 
-- Bulleted
-- List
+For textbook references, those with Sydney University Library access can use the **@Sydney Uni library** links
 
-1. Numbered
-2. List
+### Basic statistical theory
 
-**Bold** and _Italic_ and `Code` text
+[Teacup Giraffes](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
 
-[Link](url) and ![Image](src)
-```
+*Alex says: A visual, storytelling and R coding-driven approach to introducing basic statistical concepts.*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Seeing Theory](https://seeing-theory.brown.edu/)
 
-### Jekyll Themes
+*Alex says: Beautiful interactive animations that illustrate important concepts in probability and statistical theory.*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sih-stats/resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Statistical Inference
 
-### Support or Contact
+[R psychologist visulisations](https://rpsychologist.com/viz/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Alex says: Interactive visualisations that illustrate some really important and often misunderstood concepts to do with hypothesis testing.*
+
+### Power Analysis (and Sample Size Calculation)
+
+**G\*Power software**
+Available for free download at the [G\*Power website](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
+
+*Jim says: There are lots of software options for sample size calculation depending on your needs. G\*Power does the job for a wide range of scenarios with a minimum of effort.*
+
+**Sample Size for Clinical Trials**
+Julious, S. A. “Sample sizes for clinical trials” [\@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991000960739705106)
+
+*Jim says: Clinical trials often involve testing variations on the classic hypothesis of a difference between groups.  The research question in a clinical trial might require a test of “equivalence”, “superiority” or “non-inferiority” for example.  This book by Julious sets out how to handle each option, including useful worked examples.*
+
+### Linear Models (ANOVA, Simple linear regression, multiple regression, etc)
+
+**[A series of introductory short videos from Stats Quest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)**
+
+*Chris says “A series of short usually 5-15min videos which simply explain a lot of the basics”*
+
+### Logistic Regression
+
+**[Logistic Regression short videos from Stats Quest](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)**
+
+*Chris says “A series of short 5-20min videos ranging from a simply introduction to more complex details”*
+
+### Meta-Analysis
+
+**Borenstein, M. “Introduction to meta-analysis”** [\@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991002771109705106)
+
+*Jim says: Borenstein is a world renowned expert on meta-analysis and is responsible for developing the Comprehensive Meta-Analysis (CMA) software tool. His book is well written and is always my first choice when looking for answers to meta-analysis questions.*
+
+**Higgins and Green (Editors) “Cochrane Handbook for Systematic Reviews of Interventions”** [\@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/1367smt/cdi_askewsholts_vlebooks_9780470712177)
+
+*Jim says: Cochrane is an international network founded in 1993 that is without peer in promoting good scientific practice for systematic reviews of medical research.  If you follow the Cochrane handbook you can be assured your methods are rigorous, defensible and following best practice.*
+
+**Harrer, M “Doing Meta-Analysis in R”** [website](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R) of book by the same name
+
+*Jim says: If you are planning to use the R language with a package such as meta or metafor then you will find this website really useful. It covers some topics that are not included in basic textbooks such as Network meta-analysis and Bayesian meta-analysis.*
+
+## Our Workshops
+
+Statistical Consulting within the Sydney Informatics Hub offers a modular training programme made up of 1.5 hour workshops, each focusing on a single statistical method. Statistical Workflows giving practical step-by-step instructions applicable in any software are used and include experimental design, exploratory analysis, modelling, assumption testing, model interpretation and presentation of results. They are integrated into Training Pathways to give a holistic understanding of data analysis from a statistical perspective. Researchers are also encouraged to design a custom programme tailored to their research needs.
+
+We continue to develop and improve our workshop offering using feedback and the needs we identify in our statistical consulting service. If you have some feedback about our slides, you can email the author. The workshops will be periodically updated. The date the workshop was delivered is shown.
+
+Currently available:
+
+* [Research Essentials: Analysing your data](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Research%20Essentials%20HANDOUT%20v3.7%2025-06-2021.pdf) by Kathrin Schemann 6/21 Attachment: Statistical analysis roadmap for SPSS
+* [Experimental Design](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Experimental%20Design%20v%201.21%20presented%2025-08-2021%20slides.pdf) by Alex Shaw 8/21
+* [Power and Sample Size Calculation](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Power%20and%20sample%20size%202021-08%20student.pdf) by Jim Matthews 8/21
+* [Linear Models 1](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20delivered%20v1.15%2024-5-2021.pdf) by Chris Howden 5/21
+* [Linear Models 2](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20introduction%20to%20Generalised%20Linear%20Models%20delivered%20v2%2026-5-2021.pdf) by Chris Howden 5/21
+* [Surveys 1](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.1%2023-4-2021.pdf) by Chris Howden 4/21
+* [Surveys 2](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1%2028-4-2021.pdf) by Chris Howden 4/21
+* [Meta-Analysis](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Meta-Analysis%202021-04%20student.pdf) by Jim Matthews 4/21
+* [Survival Analysis](https://github.com/sih-stats/resources/blob/sih-stats-patch-1/Introduction%20to%20Survival%20Analysis%202021-06%20student.pdf) by Jim Matthews 6/21
+
+Coming soon:
+
+* Multivariate Statistical Analysis by Alex Shaw
+* Statistical Model Building by Kathrin Schemann
+* Linear Models 3 by Chris Howden
