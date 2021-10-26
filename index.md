@@ -28,11 +28,25 @@ For textbook references, those with Sydney University Library access can use the
 
 *Alex says: Beautiful interactive animations that illustrate important concepts in probability and statistical theory.*
 
+[Measures of Association](https://shiny.vet.unimelb.edu.au/epi/2x2/)
+
+*Kathrin says: This resource from the University of Melbourne nicely illustrates the calculation and interpretation for measures of associations in observational studies using animation. A good understanding of measures such as odds ratio (OR) and risk ratio (RR) is required for many different analyses, including logistic regression and meta-analysis.*
+
 ### Statistical Inference
 
 [R psychologist visulisations](https://rpsychologist.com/viz/)
 
 *Alex says: Interactive visualisations that illustrate some really important and often misunderstood concepts to do with hypothesis testing.*
+
+### Research Essentials: Analysing your data
+
+[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+
+*Kathrin says: Many researchers collect data in a spreadsheet like Excel. Unfortunately, there are many pitfalls for analysis when importing data from Excel into statistical software. This paper outlines these pitfalls and gives good advice on data organisation to set you up well for analysis.*
+
+[Learning the R Tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse/)
+
+*Kathrin says: This LinkedIn Learning course is a great introductory resource to learn R software coding for statistical analysis. The "tidyverse" is a collection of some of the most versatile R packages for cleaning, processing, modelling, and visualising your data. The course is free with a University of Sydney login.*
 
 ### Power Analysis (and Sample Size Calculation)
 
