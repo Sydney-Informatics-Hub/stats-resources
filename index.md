@@ -40,13 +40,29 @@ For textbook references, those with Sydney University Library access can use the
 
 ### Research Essentials: Analysing your data
 
-[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+**Broman, K.W. and Woo, K.H. ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)**
 
 *Kathrin says: Many researchers collect data in a spreadsheet like Excel. Unfortunately, there are many pitfalls for analysis when importing data from Excel into statistical software. This paper outlines these pitfalls and gives good advice on data organisation to set you up well for analysis.*
 
-[Learning the R Tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse/)
+### Using Statistical Software: R
+
+**[Learning the R Tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse/)**
 
 *Kathrin says: This LinkedIn Learning course is a great introductory resource to learn R software coding for statistical analysis. The "tidyverse" is a collection of some of the most versatile R packages for cleaning, processing, modelling, and visualising your data. The course is free with a University of Sydney login.*
+
+#### Using Statistical Software: SPSS
+
+**[SPSS Statistics Essential Training](https://www.linkedin.com/learning/spss-statistics-essential-training-2)**
+
+*Jim says: This LinkedIn Learning course is an ideal way to introduce yourself to the SPSS environment and learn everything from the basics of data manipulation and visualisation right through to linear and logistic regression. Having access to exercise files, speaker transcripts and captions, Q&A and your own notebook make it really accessible and user friendly. You’ll be browsing the other content on LinkedIn Learning after you have finished this one.  The course is free with a University of Sydney login.*
+
+**McCormick, K. et al. "SPSS Statistics for Data Analysis and Visualization"** [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991031521458605106)
+
+*Jim says: There are many textbooks on SPSS that cover the basics in detail (my favourite is the one by Andy Field), but not many that cover the more advanced features of SPSS. So once you have learnt the basics, this is a great reference to learn more about advanced statistics, data visualisation, predictive analytics and advanced programming techniques.*
+
+**SPSS Contextual Help**
+
+*Jim says: When you open a dialog box for an analysis and you are faced with a variety of options that seem to be written in a foreign language, click on the help button to see the details. It is actually quite helpful.  If that is not enough detail, go to the main menu “Help>Documentation in pdf format” and download the manuals.*
 
 ### Power Analysis (and Sample Size Calculation)
 
@@ -55,8 +71,7 @@ Available for free download at the [G\*Power website](https://www.psychologie.hh
 
 *Jim says: There are lots of software options for sample size calculation depending on your needs. G\*Power does the job for a wide range of scenarios with a minimum of effort.*
 
-**Sample Size for Clinical Trials**
-Julious, S. A. “Sample sizes for clinical trials” [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991000960739705106)
+**Julious, S. A. Sample Size for Clinical Trials** [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991000960739705106)
 
 *Jim says: Clinical trials often involve testing variations on the classic hypothesis of a difference between groups.  The research question in a clinical trial might require a test of “equivalence”, “superiority” or “non-inferiority” for example.  This book by Julious sets out how to handle each option, including useful worked examples.*
 
@@ -85,6 +100,13 @@ Julious, S. A. “Sample sizes for clinical trials” [@Sydney Uni library](http
 **Harrer, M “Doing Meta-Analysis in R”** [website](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R) of book by the same name
 
 *Jim says: If you are planning to use the R language with a package such as meta or metafor then you will find this website really useful. It covers some topics that are not included in basic textbooks such as Network meta-analysis and Bayesian meta-analysis.*
+
+### Survival Analysis
+
+**Collett, D. "Modelling survival data in medical research”** [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/1367smt/scopus2-s2.0-85053657101)
+
+*Jim says: This is a good all-round reference for survival analysis. It is written at an intermediate level (of statistical knowledge) but in an easy to read style. A highly recommended starting point.*
+
 
 ## Our Workshops
 
