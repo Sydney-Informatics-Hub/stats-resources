@@ -126,8 +126,8 @@ Currently available:
 * [Meta-Analysis](https://github.com/sih-stats/resources/blob/main/Meta-Analysis%202021-04%20student.pdf) by Jim Matthews 4/21
 * [Survival Analysis](https://github.com/sih-stats/resources/blob/main/Introduction%20to%20Survival%20Analysis%202021-06%20student.pdf) by Jim Matthews 6/21
 * [Statistical Model Building](https://github.com/sih-stats/resources/blob/main/Statistical%20Model%20Building%20v1.3%2027-10-2021%20handouts.pdf) by Kathrin Schemann 11/21
+* [Multivariate Statistical Analysis 1: Dimension Reduction](https://github.com/sih-stats/resources/blob/main/Multivariate%20Statistical%20Analysis%20v1.3%20presented%2022-11-2021%20for%20upload.pdf) by Alex Shaw 11/21
 
 Coming soon:
 
-* Multivariate Statistical Analysis by Alex Shaw
 * Linear Models 3 by Chris Howden
