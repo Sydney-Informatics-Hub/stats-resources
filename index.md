@@ -116,7 +116,7 @@ We continue to develop and improve our workshop offering using feedback and the 
 
 Currently available:
 
-* [Research Essentials: Analysing your data](https://github.com/sih-stats/resources/blob/main/Research%20Essentials%20HANDOUT%20v3.7%2025-06-2021.pdf) by Kathrin Schemann 6/21 Attachment: Statistical analysis roadmap for SPSS
+* [Research Essentials: Analysing your data](https://github.com/sih-stats/resources/blob/main/Research%20Essentials%20HANDOUT%20v3.7%2025-06-2021.pdf) by Kathrin Schemann 6/21 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
 * [Experimental Design](https://github.com/sih-stats/resources/blob/main/Experimental%20Design%20v%201.21%20presented%2025-08-2021%20slides.pdf) by Alex Shaw 8/21
 * [Power and Sample Size Calculation](https://github.com/sih-stats/resources/blob/main/Power%20and%20sample%20size%202021-08%20student.pdf) by Jim Matthews 8/21
 * [Linear Models 1](https://github.com/sih-stats/resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20delivered%20v1.15%2024-5-2021.pdf) by Chris Howden 5/21
