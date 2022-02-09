@@ -2,4 +2,4 @@
 
 Training Resources for Statistical Consulting Service, Sydney Informatics Hub, The University of Sydney.
 
-Our website is here: https://sih-stats.github.io/resources/
+Our website is here: https://sydney-informatics-hub.github.io/stats-resources/
