@@ -119,15 +119,12 @@ Currently available:
 * [Research Essentials: Analysing your data](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/main/Research%20Essentials%20HANDOUT%20v3.9%209-2-2022.pdf) by Kathrin Schemann 2/22 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
 * [Experimental Design](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/main/Experimental%20Design%20v%201.22%20presented%2009-02-22.pdf) by Alex Shaw 2/22
 * [Power and Sample Size Calculation](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/main/Power%20and%20sample%20size%202022-02%20student.pdf) by Jim Matthews 2/22
-* [Linear Models 1](https://github.com/sih-stats/resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20delivered%20v1.15%2024-5-2021.pdf) by Chris Howden 5/21
-* [Linear Models 2](https://github.com/sih-stats/resources/blob/main/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20introduction%20to%20Generalised%20Linear%20Models%20delivered%20v2%2026-5-2021.pdf) by Chris Howden 5/21
+* [Linear Models 1](https://github.com/sih-stats/resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20delivered%20v1.15%2024-5-2021.pdf)
+* [Linear Models 2](https://github.com/sih-stats/resources/blob/main/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20introduction%20to%20Generalised%20Linear%20Models%20delivered%20v2%2026-5-2021.pdf)
+* [Linear Models 3 v1.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.3%208-3-2022.pdf)
 * [Surveys 1](https://github.com/sih-stats/resources/blob/main/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.1%2023-4-2021.pdf) by Chris Howden 4/21
 * [Surveys 2](https://github.com/sih-stats/resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1%2028-4-2021.pdf) by Chris Howden 4/21
 * [Meta-Analysis](https://github.com/sih-stats/resources/blob/main/Meta-Analysis%202021-04%20student.pdf) by Jim Matthews 4/21
 * [Survival Analysis](https://github.com/sih-stats/resources/blob/main/Introduction%20to%20Survival%20Analysis%202021-06%20student.pdf) by Jim Matthews 6/21
 * [Statistical Model Building](https://github.com/sih-stats/resources/blob/main/Statistical%20Model%20Building%20v1.3%2027-10-2021%20handouts.pdf) by Kathrin Schemann 11/21
 * [Multivariate Statistical Analysis 1: Dimension Reduction](https://github.com/sih-stats/resources/blob/main/Multivariate%20Statistical%20Analysis%20v1.3%20presented%2022-11-2021%20for%20upload.pdf) by Alex Shaw 11/21
-
-Coming soon:
-
-* Linear Models 3 by Chris Howden
