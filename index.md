@@ -117,7 +117,7 @@ We continue to develop and improve our workshop offering using feedback and the 
 Currently available:
 
 * [Research Essentials: Analysing your data](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/main/Research%20Essentials%20HANDOUT%20v3.9%209-2-2022.pdf) by Kathrin Schemann 2/22 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
-* [Experimental Design](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/main/Experimental%20Design%20v%201.22%20presented%2009-02-22.pdf) by Alex Shaw 2/22
+* [Experimental Design v1.23](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.23.pdf)
 * [Power and Sample Size Calculation](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/main/Power%20and%20sample%20size%202022-02%20student.pdf) by Jim Matthews 2/22
 * [Linear Models 1](https://github.com/sih-stats/resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20delivered%20v1.15%2024-5-2021.pdf)
 * [Linear Models 2](https://github.com/sih-stats/resources/blob/main/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20introduction%20to%20Generalised%20Linear%20Models%20delivered%20v2%2026-5-2021.pdf)
