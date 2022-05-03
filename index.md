@@ -12,7 +12,31 @@ Our team:
 
 [Read more information about our team](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/our-staff.html). We work within the Sydney Informatics Hub Core Research Facility team to support researchers and research students at the University of Sydney.
 
-We invite those within the university and beyond to browse this list of resources, which include links to our favourite external resources and the [slides from our workshops](#our-workshops).
+We invite those within the university and beyond to browse this list of resources, which include the slides from our workshops and links to our favourite external resources.
+
+## Our Workshops
+
+Statistical Consulting within the Sydney Informatics Hub offers a modular training programme made up of 1.5 hour workshops, each focusing on a single statistical method. Statistical Workflows giving practical step-by-step instructions applicable in any software are used and include experimental design, exploratory analysis, modelling, assumption testing, model interpretation and presentation of results. They are integrated into Training Pathways to give a holistic understanding of data analysis from a statistical perspective. Researchers are also encouraged to design a custom programme tailored to their research needs.
+
+We continue to develop and improve our workshop offering using feedback and the needs we identify in our statistical consulting service. If you have some feedback about our slides, you can email the author. The workshops will be periodically updated. The version number is shown next to the slides for download.
+
+If you would like a synopsis of each workshop, or if you would like to know the next date that our workshops will be delivered to Sydney University staff and students, [click here](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training.html). 
+
+Download workshop slides:
+
+* [Research Essentials: Analysing your data](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/main/Research%20Essentials%20HANDOUT%20v3.9%209-2-2022.pdf) by Kathrin Schemann 2/22 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
+* [Experimental Design v1.23](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.23.pdf)
+* [Power and Sample Size Calculation](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%202022-03%20student.pdf) by Jim Matthews 3/22
+* [Linear Models 1](https://github.com/sih-stats/resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20delivered%20v1.15%2024-5-2021.pdf)
+* [Linear Models 2](https://github.com/sih-stats/resources/blob/main/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20introduction%20to%20Generalised%20Linear%20Models%20delivered%20v2%2026-5-2021.pdf)
+* [Linear Models 3 v1.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.3%208-3-2022.pdf)
+* [Surveys 1 v2.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.5%208-3-2022.pdf)
+* [Surveys 2](https://github.com/sih-stats/resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1%2028-4-2021.pdf) by Chris Howden 4/21
+* [Meta-Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta-Analysis%202022-04%20student.pdf) by Jim Matthews 4/22
+* [Survival Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%202022-04%20student.pdf) by Jim Matthews 4/22
+* [Statistical Model Building](https://github.com/sih-stats/resources/blob/main/Statistical%20Model%20Building%20v1.3%2027-10-2021%20handouts.pdf) by Kathrin Schemann 11/21
+* [Multivariate Statistical Analysis 1: Dimension Reduction](https://github.com/sih-stats/resources/blob/main/Multivariate%20Statistical%20Analysis%20v1.3%20presented%2022-11-2021%20for%20upload.pdf) by Alex Shaw 11/21
+
 
 ## References
 
@@ -106,25 +130,3 @@ Available for free download at the [G\*Power website](https://www.psychologie.hh
 **Collett, D. "Modelling survival data in medical research”** [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/1367smt/scopus2-s2.0-85053657101)
 
 *Jim says: This is a good all-round reference for survival analysis. It is written at an intermediate level (of statistical knowledge) but in an easy to read style. A highly recommended starting point.*
-
-
-## Our Workshops
-
-Statistical Consulting within the Sydney Informatics Hub offers a modular training programme made up of 1.5 hour workshops, each focusing on a single statistical method. Statistical Workflows giving practical step-by-step instructions applicable in any software are used and include experimental design, exploratory analysis, modelling, assumption testing, model interpretation and presentation of results. They are integrated into Training Pathways to give a holistic understanding of data analysis from a statistical perspective. Researchers are also encouraged to design a custom programme tailored to their research needs.
-
-We continue to develop and improve our workshop offering using feedback and the needs we identify in our statistical consulting service. If you have some feedback about our slides, you can email the author. The workshops will be periodically updated. The date the workshop was delivered is shown.
-
-Currently available:
-
-* [Research Essentials: Analysing your data](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/main/Research%20Essentials%20HANDOUT%20v3.9%209-2-2022.pdf) by Kathrin Schemann 2/22 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
-* [Experimental Design v1.23](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.23.pdf)
-* [Power and Sample Size Calculation](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%202022-03%20student.pdf) by Jim Matthews 3/22
-* [Linear Models 1](https://github.com/sih-stats/resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20delivered%20v1.15%2024-5-2021.pdf)
-* [Linear Models 2](https://github.com/sih-stats/resources/blob/main/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20introduction%20to%20Generalised%20Linear%20Models%20delivered%20v2%2026-5-2021.pdf)
-* [Linear Models 3 v1.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.3%208-3-2022.pdf)
-* [Surveys 1 v2.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.5%208-3-2022.pdf)
-* [Surveys 2](https://github.com/sih-stats/resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1%2028-4-2021.pdf) by Chris Howden 4/21
-* [Meta-Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta-Analysis%202022-04%20student.pdf) by Jim Matthews 4/22
-* [Survival Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%202022-04%20student.pdf) by Jim Matthews 4/22
-* [Statistical Model Building](https://github.com/sih-stats/resources/blob/main/Statistical%20Model%20Building%20v1.3%2027-10-2021%20handouts.pdf) by Kathrin Schemann 11/21
-* [Multivariate Statistical Analysis 1: Dimension Reduction](https://github.com/sih-stats/resources/blob/main/Multivariate%20Statistical%20Analysis%20v1.3%20presented%2022-11-2021%20for%20upload.pdf) by Alex Shaw 11/21
