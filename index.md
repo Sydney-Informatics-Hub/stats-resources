@@ -31,7 +31,7 @@ Download workshop slides:
 * [Linear Models 2](https://github.com/sih-stats/resources/blob/main/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20introduction%20to%20Generalised%20Linear%20Models%20delivered%20v2%2026-5-2021.pdf)
 * [Linear Models 3 v1.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.3%208-3-2022.pdf)
 * [Surveys 1 v2.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.5%208-3-2022.pdf)
-* [Surveys 2](https://github.com/sih-stats/resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1%2028-4-2021.pdf) by Chris Howden 4/21
+* [Surveys 2 v1.2](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.2%2026-4-2022.pdf)
 * [Meta-Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta-Analysis%202022-04%20student.pdf) by Jim Matthews 4/22
 * [Survival Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%202022-04%20student.pdf) by Jim Matthews 4/22
 * [Statistical Model Building](https://github.com/sih-stats/resources/blob/main/Statistical%20Model%20Building%20v1.3%2027-10-2021%20handouts.pdf) by Kathrin Schemann 11/21
