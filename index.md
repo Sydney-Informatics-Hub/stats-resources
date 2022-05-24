@@ -34,7 +34,7 @@ Download workshop slides:
 * [Surveys 2 v1.2](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.2%2026-4-2022.pdf)
 * [Meta-Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta-Analysis%202022-04%20student.pdf) by Jim Matthews 4/22
 * [Survival Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%202022-04%20student.pdf) by Jim Matthews 4/22
-* [Statistical Model Building](https://github.com/sih-stats/resources/blob/main/Statistical%20Model%20Building%20v1.3%2027-10-2021%20handouts.pdf) by Kathrin Schemann 11/21
+* [Statistical Model Building](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf)) by Kathrin Schemann 5/22
 * [Multivariate Statistical Analysis 1: Dimension Reduction v1.4](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Multivariate%20Statistical%20Analysis%20v1.4.pdf)
 
 
