@@ -37,6 +37,35 @@ Download workshop slides:
 * [Statistical Model Building](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf) by Kathrin Schemann 5/22
 * [Multivariate Statistical Analysis 1: Dimension Reduction v1.4](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Multivariate%20Statistical%20Analysis%20v1.4.pdf)
 
+### Acknowledgement of our workshops
+
+The continued acknowledgment of the use of Sydney Informatics Hub facilities including statistical consulting ensures the sustainability of our services. Suggested wording for the use of our workshops and/or workflows:
+
+"The authors acknowledge the Statistical workshops and workflows provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.” 
+
+## Statistical consulting
+
+We provide tailored statistical advice to University of Sydney researchers, research students, and affiliates.
+How we can help
+
+Our team can provide:
+
+* advice on experimental design
+* support with data analysis and interpretation
+* support with reviewing statistics in your project or grant application
+* support with calculation of sample size and experimental power that will be needed in your grant application
+
+If you are an eligible Sydney University student or staff member, you can book a consult by [requesting project help](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/project-support.html)
+
+### Acknowledgement of statistical consulting service
+
+The continued acknowledgment of the use of Sydney Informatics Hub facilities including statistical consulting ensures the sustainability of our services. Suggested wording for acknowledging help provided during statistical consulting:
+
+"The authors acknowledge the Statistical Consulting service provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney."
+ 
+Acknowledging specific staff:
+
+"The authors acknowledge the Statistical Consulting service provided by [name of staff] from the Sydney Informatics Hub, a Core Research Facility of the University of Sydney."
 
 ## References
 
