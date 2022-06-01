@@ -14,7 +14,7 @@ Our team:
 
 We invite those within the university and beyond to browse this list of resources, which include the slides from our workshops and links to our favourite external resources.
 
-## Our Workshops
+## Our Workshops and Workflows
 
 Statistical Consulting within the Sydney Informatics Hub offers a modular training programme made up of 1.5 hour workshops, each focusing on a single statistical method. Statistical Workflows giving practical step-by-step instructions applicable in any software are used and include experimental design, exploratory analysis, modelling, assumption testing, model interpretation and presentation of results. They are integrated into Training Pathways to give a holistic understanding of data analysis from a statistical perspective. Researchers are also encouraged to design a custom programme tailored to their research needs.
 
