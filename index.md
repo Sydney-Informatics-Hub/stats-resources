@@ -26,7 +26,7 @@ Download workshop slides:
 
 * [Research Essentials: Analysing your data](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Research%20Essentials%20v4.1%208-6-2022%20HANDOUTS.pdf) by Kathrin Schemann 6/22 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
 * [Experimental Design v1.23](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.23.pdf)
-* [Power and Sample Size Calculation](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%202022-03%20student.pdf) by Jim Matthews 3/22
+* [Power and Sample Size Calculation](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%202022-08%20student.pdf) by Jim Matthews 8/22
 * [Linear Models 1 v1.21](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.21%2023-5-2022.pdf)
 * [Linear Models 2 v2.7](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%202%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.7%2023-5-2022.pdf)
 * [Linear Models 3 v1.41](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.41%2018-3-2022.pdf)
