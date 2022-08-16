@@ -24,7 +24,7 @@ If you would like a synopsis of each workshop, or if you would like to know the 
 
 Download workshop slides:
 
-* [Research Essentials: Analysing your data](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Research%20Essentials%20v4.1%208-6-2022%20HANDOUTS.pdf) by Kathrin Schemann 6/22 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
+* [Research Essentials: Analysing your data](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Research%20Essentials%20v4.2%2017-8-2022%20HANDOUTS.pdf) by Kathrin Schemann 8/22 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
 * [Experimental Design v1.23](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.23.pdf)
 * [Power and Sample Size Calculation](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%202022-08%20student.pdf) by Jim Matthews 8/22
 * [Linear Models 1 v1.21](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.21%2023-5-2022.pdf)
