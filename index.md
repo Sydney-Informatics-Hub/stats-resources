@@ -24,7 +24,7 @@ If you would like a synopsis of each workshop, or if you would like to know the 
 
 Download workshop slides:
 
-* [Research Essentials: Analysing your data](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Research%20Essentials%20v4.2%2017-8-2022%20HANDOUTS.pdf) by Kathrin Schemann 8/22 [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
+* [Research Essentials: Analysing your data v4.1](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Research%20Essentials%20v4.2%2017-8-2022%20HANDOUTS.pdf) [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
 * [Experimental Design v1.23](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.23.pdf)
 * [Power and Sample Size Calculation](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%202022-08%20student.pdf) by Jim Matthews 8/22
 * [Linear Models 1 v1.22](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.22%2029-8-2022.pdf)
@@ -34,7 +34,7 @@ Download workshop slides:
 * [Surveys 2 v1.2](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.2%2026-4-2022.pdf)
 * [Meta-Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta-Analysis%202022-06%20student%20v2.pdf) by Jim Matthews 6/22 [Example Data file](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta_Sutton_Smith%2022-06.csv) [Example R script](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta-Analysis%20workshop%20example%2022-06.R)
 * [Survival Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%202022-06%20student.pdf) by Jim Matthews 6/22
-* [Statistical Model Building](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf) by Kathrin Schemann 5/22
+* [Statistical Model Building v1.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf)
 * [Multivariate Statistical Analysis 1: Dimension Reduction v1.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Multivariate%20Statistical%20Analysis%20v1.5%2021-06-2022%20HANDOUTS.pdf)
 
 ### Acknowledgement of our workshops
