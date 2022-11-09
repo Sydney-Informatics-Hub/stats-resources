@@ -33,7 +33,7 @@ Download workshop slides:
 * [Surveys 1 v2.7](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.7%204-10-2022.pdf)
 * [Surveys 2 v1.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.3%204-10-2022.pdf)
 * [Meta-Analysis - An Introduction v22.10](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta-Analysis%20v22.10%20handout.pdf)  [Example Data file](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta_Sutton_Smith%2022-06.csv) [Example R script](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Meta-Analysis%20workshop%20example%2022-06.R)
-* [Introduction to Survival Analysis](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%202022-06%20student.pdf) by Jim Matthews 6/22
+* [Introduction to Survival Analysis v22.11](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%20v22.11%20handout.pdf)
 * [Statistical Model Building v1.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf)
 * [Multivariate Statistical Analysis 1: Dimension Reduction v1.6](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Multivariate%20Statistical%20Analysis%20v1.6%20handouts.pdf)
 
