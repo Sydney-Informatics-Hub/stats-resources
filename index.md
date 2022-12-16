@@ -97,6 +97,11 @@ For textbook references, those with Sydney University Library access can use the
 
 *Kathrin says: Many researchers collect data in a spreadsheet like Excel. Unfortunately, there are many pitfalls for analysis when importing data from Excel into statistical software. This paper outlines these pitfalls and gives good advice on data organisation to set you up well for analysis.*
 
+### Using Statistical Software: University provided software
+R, Rstudio and Python are freeware which can be downloaded from the web.
+For a list of other software the university provides access to refer to the article "What software is available to University staff?" on the services portal [requesting project help](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0011594) (article KB0011594). At the time of writing this included SPSS, AMOS, GenStat, SAS, Mathematica, MATLAB, ArcGIS.
+
+
 ### Using Statistical Software: R
 
 **[Learning the R Tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse/)**
