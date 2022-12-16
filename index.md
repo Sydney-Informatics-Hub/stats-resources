@@ -115,7 +115,7 @@ For textbook references, those with Sydney University Library access can use the
 
 <br/>
 
-### Statistical Software: 
+### Statistical Software
 #### University provided software
 R, Rstudio and Python are freeware which can be downloaded from the web. For a list of other software the university provides access to refer to the article "What software is available to University staff?" on the services portal [requesting project help](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0011594) (article KB0011594). At the time of writing this included SPSS, AMOS, GenStat, SAS, Mathematica, MATLAB, ArcGIS.
 
@@ -125,7 +125,7 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 *Kathrin says: This LinkedIn Learning course is a great introductory resource to learn R software coding for statistical analysis. The "tidyverse" is a collection of some of the most versatile R packages for cleaning, processing, modelling, and visualising your data. The course is free with a University of Sydney login.*
 
-#### Using Statistical Software: SPSS
+#### SPSS
 
 **[SPSS Statistics Essential Training](https://www.linkedin.com/learning/spss-statistics-essential-training-2)**
 
