@@ -43,13 +43,14 @@ Download workshop slides:
 * [Statistical Model Building v1.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf)
 * [Multivariate Statistical Analysis 1: Dimension Reduction v1.7](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/28492665b71621fa91477e6553768d66c0d2b4d3/Multivariate%20Statistical%20Analysis%20v1.7%20handouts.pdf)
 
-<br/>
-<br/>
 ### Acknowledgement of our workshops
 
 The continued acknowledgment of the use of Sydney Informatics Hub facilities including statistical consulting ensures the sustainability of our services. Suggested wording for the use of our workshops and/or workflows:
 
 "The authors acknowledge the Statistical workshops and workflows provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.” 
+
+<br/>
+<br/>
 
 ## Statistical consulting
 
@@ -75,6 +76,9 @@ Acknowledging specific staff:
 
 "The authors acknowledge the Statistical Consulting service provided by [name of staff] from the Sydney Informatics Hub, a Core Research Facility of the University of Sydney."
 
+<br/>
+<br/>
+
 ## References
 
 For textbook references, those with Sydney University Library access can use the **@Sydney Uni library** links
@@ -93,11 +97,15 @@ For textbook references, those with Sydney University Library access can use the
 
 *Kathrin says: This resource from the University of Melbourne nicely illustrates the calculation and interpretation for measures of associations in observational studies using animation. A good understanding of measures such as odds ratio (OR) and risk ratio (RR) is required for many different analyses, including logistic regression and meta-analysis.*
 
+<br/>
+
 ### Statistical Inference
 
 [R psychologist visulisations](https://rpsychologist.com/viz/)
 
 *Alex says: Interactive visualisations that illustrate some really important and often misunderstood concepts to do with hypothesis testing.*
+
+<br/>
 
 ### Research Essentials: Analysing your data
 
@@ -105,8 +113,12 @@ For textbook references, those with Sydney University Library access can use the
 
 *Kathrin says: Many researchers collect data in a spreadsheet like Excel. Unfortunately, there are many pitfalls for analysis when importing data from Excel into statistical software. This paper outlines these pitfalls and gives good advice on data organisation to set you up well for analysis.*
 
+<br/>
+
 ### Using Statistical Software: University provided software
 R, Rstudio and Python are freeware which can be downloaded from the web. For a list of other software the university provides access to refer to the article "What software is available to University staff?" on the services portal [requesting project help](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0011594) (article KB0011594). At the time of writing this included SPSS, AMOS, GenStat, SAS, Mathematica, MATLAB, ArcGIS.
+
+<br/>
 
 ### Using Statistical Software: R
 
@@ -128,6 +140,8 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 *Jim says: When you open a dialog box for an analysis and you are faced with a variety of options that seem to be written in a foreign language, click on the help button to see the details. It is actually quite helpful.  If that is not enough detail, go to the main menu “Help>Documentation in pdf format” and download the manuals.*
 
+<br/>
+
 ### Power Analysis (and Sample Size Calculation)
 
 **G\*Power software**
@@ -139,17 +153,23 @@ Available for free download at the [G\*Power website](https://www.psychologie.hh
 
 *Jim says: Clinical trials often involve testing variations on the classic hypothesis of a difference between groups.  The research question in a clinical trial might require a test of “equivalence”, “superiority” or “non-inferiority” for example.  This book by Julious sets out how to handle each option, including useful worked examples.*
 
+<br/>
+
 ### Linear Models (ANOVA, Simple linear regression, multiple regression, etc)
 
 **[A series of introductory short videos from Stats Quest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)**
 
 *Chris says “A series of short usually 5-15min videos which simply explain a lot of the basics”*
 
+<br/>
+
 ### Logistic Regression
 
 **[Logistic Regression short videos from Stats Quest](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)**
 
 *Chris says “A series of short 5-20min videos ranging from a simply introduction to more complex details”*
+
+<br/>
 
 ### Meta-Analysis
 
@@ -164,6 +184,8 @@ Available for free download at the [G\*Power website](https://www.psychologie.hh
 **Harrer, M “Doing Meta-Analysis in R”** [website](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R) of book by the same name
 
 *Jim says: If you are planning to use the R language with a package such as meta or metafor then you will find this website really useful. It covers some topics that are not included in basic textbooks such as Network meta-analysis and Bayesian meta-analysis.*
+
+<br/>
 
 ### Survival Analysis
 
