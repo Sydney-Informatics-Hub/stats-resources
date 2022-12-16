@@ -1,9 +1,9 @@
 # Statistical Resources from the Sydney Informatics Hub
 
 Training Resources for Statistical Consulting Service, Sydney Informatics Hub, The University of Sydney.
-<br/>
-<br/>
 
+<br/>
+<br/>
 ## About Us
 
 Our team:
@@ -16,6 +16,8 @@ Our team:
 
 We invite those within the university and beyond to browse this list of resources, which include the slides from our workshops and links to our favourite external resources.
 
+<br/>
+<br/>
 ## Our Workshops and Workflows
 
 Statistical Consulting within the Sydney Informatics Hub offers a modular training programme made up of 1.5 hour workshops, each focusing on a single statistical method. Statistical Workflows giving practical step-by-step instructions applicable in any software are used and include experimental design, exploratory analysis, modelling, assumption testing, model interpretation and presentation of results. They are integrated into Training Pathways to give a holistic understanding of data analysis from a statistical perspective. Researchers are also encouraged to design a custom programme tailored to their research needs.
@@ -39,6 +41,8 @@ Download workshop slides:
 * [Statistical Model Building v1.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf)
 * [Multivariate Statistical Analysis 1: Dimension Reduction v1.7](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/28492665b71621fa91477e6553768d66c0d2b4d3/Multivariate%20Statistical%20Analysis%20v1.7%20handouts.pdf)
 
+<br/>
+<br/>
 ### Acknowledgement of our workshops
 
 The continued acknowledgment of the use of Sydney Informatics Hub facilities including statistical consulting ensures the sustainability of our services. Suggested wording for the use of our workshops and/or workflows:
