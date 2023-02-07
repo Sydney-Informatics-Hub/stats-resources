@@ -31,8 +31,8 @@ If you would like a synopsis of each workshop, or if you would like to know the 
 Download workshop slides:
 
 * [Research Essentials: Analysing your data v4.4](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Research%20Essentials%20deluxe%20v4.4%2023-02-08%20HANDOUT.pdf) [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
-* [Experimental Design v1.23](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.23.pdf)
-* [Power and Sample Size v22.12](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%20v22.12%20handout.pdf) [Power Simulation RMarkdown](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Example1-simulation.Rmd) [Power simulation html](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Example1-simulation.html)
+* [Experimental Design v1.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.3.pdf)
+* [Power and Sample Size v22.2](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%20v22.2.pdf) [Power Simulation RMarkdown](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Example1-simulation.Rmd) [Power simulation html](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Example1-simulation.html)
 * [Linear Models 1 v1.22](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.22%2029-8-2022.pdf)
 * [Linear Models 2 v2.8](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.8%202-9-2022.pdf)
 * [Linear Models 3 v1.42](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.42%206-10-2022.pdf)
