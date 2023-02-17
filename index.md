@@ -34,7 +34,7 @@ Download workshop slides:
 * [Experimental Design v1.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.3.pdf)
 * [Power and Sample Size v22.2](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Power%20and%20sample%20size%20v22.2.pdf) [Power Simulation RMarkdown](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Example1-simulation.Rmd) [Power simulation html](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Example1-simulation.html)
 * [Linear Models 1 v1.24](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.24%2017-2-2023.pdf)
-* [Linear Models 2 v2.9](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.9%2017-2-2023%20.pdff)
+* [Linear Models 2 v2.9](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.9%2017-2-2023%20.pdf)
 * [Linear Models 3 v1.42](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.42%206-10-2022.pdf)
 * [Surveys 1 v2.7](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.7%204-10-2022.pdf)
 * [Surveys 2 v1.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.3%204-10-2022.pdf)
