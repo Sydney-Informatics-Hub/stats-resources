@@ -1,0 +1,93 @@
+sidebarTitle: SIH Statistical Resources
+
+## See the generic.yml file as an example of the allowed yaml format.
+
+folders:
+
+- title: Frontmatter
+  jurl: /frontmatter.html
+  type: frontmatter
+  pdf: true
+  folderitems:
+
+  - title: Title page
+    jurl: /pdf_title_page.html
+    pdf: true
+
+  - title: Copyright
+    jurl: /pdf_copyright_page.html
+    pdf: true
+
+  - title: TOC page
+    jurl: /pdf_toc_page.html
+    pdf: true
+
+- title: Sites
+  jurl: /minitoc_sites.html
+
+  folderitems:
+
+  - title: Workshops and Workflows
+    jurl: /workshops_and_workflows.html
+    ref: workshops-and-workflows 
+  
+    subfolders:
+    - title: The Statistical Consulting Unit
+      output: web
+      subfolderitems:
+
+      - title: About Us
+        jurl: /about_us.html
+        ref: about-us
+
+      - title: Contact Us
+        jurl: /contact_us.html
+        ref: contact-us
+
+      - title: Staff
+        jurl: /staff.html
+        ref: staff
+
+      - title: Acknowledgements
+        jurl: /acknowledgements.html
+        ref: acknowledgements
+
+    - title: References
+      output: web
+      subfolderitems:
+
+      - title: Basic Statistical Theory
+        jurl: /basic_stat_theory.html
+        ref: basic-stat-theory
+
+      - title: Linear Models
+        jurl: /linear_models.html
+        ref: linear-models
+      
+      - title: Logistic Regression
+        jurl: /logistic_regression.html
+        ref: logistic-regression
+        
+      - title: Meta Analysis
+        jurl: /meta_analysis.html
+        ref: meta-analysis
+
+      - title: Power Analysis
+        jurl: /power_analysis.html
+        ref: power-analysis
+
+      - title: Research Essentials
+        jurl: /research_essentials.html
+        ref: research-essentials
+
+      - title: Statistical Inference
+        jurl: /statistical_inference.html
+        ref: statistical-inference
+
+      - title: Statistical Software
+        jurl: /statistical_software.html
+        ref: statistical-software
+
+      - title: Survival Analysis
+        jurl: /survival_analysis.html
+        ref: survival-analysis                                               

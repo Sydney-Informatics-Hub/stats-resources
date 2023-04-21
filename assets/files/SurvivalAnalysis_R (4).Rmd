@@ -1,0 +1,297 @@
+---
+title: "SurvivalAnalysis"
+author: "Jim Matthews"
+date: "03/02/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### R scripts to accompany the examples in the workshop
+
+These R code chunks are largely equivalent to the SPSS syntax that was used to produce the output that is shown on the workshop slides.  If you prefer to use R, you can use the following scripts as a guide.  Note that the output produced by this code is not necessarily exactly the same as that produced by the SPSS syntax.
+
+### Load packages
+
+We will use a number of packages including "survival" and "survminer".  Refer to the list below for other packages used.  If you haven't already installed them, you will need to do this before using the library() function.
+
+```{r packages, echo=TRUE, message=FALSE, warning=FALSE}
+library(survival)
+library(survminer)
+library(ggplot2)
+library(ggfortify)
+library(My.stepwise)
+library(gt)
+library(gtsummary)
+```
+
+### Load the data
+
+The data file is WHAS500data.csv
+
+This is found at the Wiley website here:
+
+ftp://ftp.wiley.com/public/sci_tech_med/survival
+
+```{r data, include=FALSE}
+# load the data (make sure it is in your working directory)
+whas500 <- read.csv("WHAS500data.csv", header = TRUE)
+factor(x = whas500$year, levels = c(1,2,3), labels = c("2016", "2017", "2018"))
+factor(x = whas500$Gender, levels = c(0,1), labels = c("Male", "Female"))
+```
+
+
+## Kaplan Meier
+
+Create the Kaplan-Meier survival object and include Gender as a factor.
+
+We create a Surv() object then parse it to the survfit() function.
+
+### We can use the plot() function to create a basic graph.
+
+```{r KM, echo=TRUE}
+kmfit <- survfit(Surv(lenfol, fstat) ~ Gender, data = whas500)
+# summary(kmfit) # this is suppressed to save space.
+plot(
+  kmfit,
+  mark = "+",
+  main = "Kaplan-Meier curve",
+  xlab = "Total length of follow up (days)",
+  ylab = "Cumulative Survival"
+)
+```
+
+### Alternative way to plot the K-M curve using ggplot2::autoplot
+
+This includes confidence interval shading by default.
+
+```{r KM plot, echo=TRUE}
+ggplot2::autoplot(kmfit,
+                  main = "Kaplan-Meier curve with ggplot2::autoplot",
+                  xlab = "Total length of follow up (days)",
+                  ylab = "Cumulative Survival"
+                  )
+```
+
+### Another option is to use survminer::ggsurvplot
+
+```{r KMsurvminer, echo=TRUE}
+ggsurvplot(
+  kmfit,
+  data = whas500,
+  conf.int = T,
+  legend = "bottom",
+  main = "Kaplan-Meier curve with survminer::ggsurvplot",
+  xlab = "Total length of follow up (days)",
+  ylab = "Cumulative Survival",
+  break.time.by = 365,
+  ggtheme = theme_minimal()
+)
+```
+
+
+## Cox Regression
+
+Start with stepwise selection of covariates.
+
+```{r Cox, echo=TRUE}
+# define list of variables to select from
+var.select <-
+  c(
+    "Gender",
+    "Age",
+    "hr",
+    "sysbp",
+    "diabp",
+    "bmi",
+    "cvd",
+    "afb",
+    "sho",
+    "chf",
+    "av3",
+    "miord",
+    "mitype",
+    "year"
+  )
+# Use the My.stepwise package to create the stepwise selection model
+coxstep <-
+  My.stepwise.coxph(
+    Time = "lenfol",
+    Status = "fstat",
+    variable.list = var.select,
+    data = whas500
+  )
+```
+
+## Collett method for variable selection
+
+These will use the survival::coxph() function
+
+Model 1: null model
+
+```{r model01}
+cox01 <- coxph(Surv(lenfol, fstat) ~ 1, data = whas500)
+AIC01 <- extractAIC(cox01)
+```
+
+Model 2: Age
+
+```{r model02}
+cox02 <- coxph(Surv(lenfol, fstat) ~ Age, data = whas500)
+AIC02 <- extractAIC(cox02)
+```
+
+Model 3: Gender
+
+```{r model03}
+cox03 <- coxph(Surv(lenfol, fstat) ~ Gender, data = whas500)
+AIC03 <-extractAIC(cox03)
+```
+
+Model 4: BMI
+
+```{r model04}
+cox04 <- coxph(Surv(lenfol, fstat) ~ bmi, data = whas500)
+AIC04 <- extractAIC(cox04)
+```
+
+Model 5: Heart Rate
+
+```{r model05}
+cox05 <- coxph(Surv(lenfol, fstat) ~ hr, data = whas500)
+AIC05 <- extractAIC(cox05)
+```
+
+Model 6: Age + Gender + BMI
+
+```{r model06}
+cox06 <- coxph(Surv(lenfol, fstat) ~ Age + Gender + bmi, data = whas500)
+AIC06 <- extractAIC(cox06)
+```
+
+Model 7: Age + Gender + HR
+
+```{r model07}
+cox07 <- coxph(Surv(lenfol, fstat) ~ Age + Gender + hr, data = whas500)
+AIC07 <- extractAIC(cox07)
+```
+
+Model 8: Age + BMI + HR
+
+```{r model08}
+cox08 <- coxph(Surv(lenfol, fstat) ~ Age + bmi + hr, data = whas500)
+AIC08 <- extractAIC(cox08)
+```
+
+Model 9: Gender + BMI + HR
+
+```{r model09}
+cox09 <- coxph(Surv(lenfol, fstat) ~ Gender + bmi + hr, data = whas500)
+AIC09 <- extractAIC(cox09)
+```
+
+Model 10: Age+Gender+BMI+HR
+
+```{r model10}
+cox10 <- coxph(Surv(lenfol, fstat) ~ Age + Gender + bmi + hr, data = whas500)
+AIC10 <- extractAIC(cox10)
+```
+
+Create a table of the AIC values. 
+
+To be done ####
+
+## Linearity of continuous predictors
+
+Create a variable for BMI categories
+
+```{r bmi_cat}
+bmi.cat <- cut(whas500$bmi, breaks = c(0, 18.5, 25, 30, 9999), labels = c("underweight", "normal weight", "overweight", "obese"), right = F)
+whas500$bmi.cat <- bmi.cat
+```
+
+Have a look at the Kaplan-Meier curves with BMI categories
+
+```{r KM.bmi.cat}
+km.bmi.cat <- survfit(Surv(lenfol, fstat) ~ bmi.cat, data = whas500)
+ggplot2::autoplot(km.bmi.cat,
+                  main = "Kaplan-Meier curve for BMI categories",
+                  xlab = "Total length of follow up (days)",
+                  ylab = "Cumulative Survival"
+                  )
+```
+
+
+### Model 11: Age + Gender + BMI(cat) + HR
+
+Create models including the BMI category variable
+
+```{r model11, warning=FALSE}
+cox11 <- coxph(Surv(lenfol, fstat) ~ Age + Gender + bmi.cat + hr, data = whas500)
+AIC11 <- extractAIC(cox11)
+cox11.fit <- survfit(cox11)
+gtsummary::tbl_regression(cox11, exponentiate = T)
+```
+
+
+### Plot the Cox model 11 survival curves for the BMI categories
+
+Cox survival curves using survminer::ggadjustedcurves
+
+```{r coxsurvminer}
+ggadjustedcurves(cox11, data = whas500, variable = "bmi.cat")
+```
+
+## Schoenfeld Residuals
+
+Have a look at the plot for the Gender variable (Model 3) using survminer::ggcoxdiagnostics
+
+```{r resid, message=FALSE, warning=FALSE}
+ggcoxdiagnostics(cox03, type = "schoenfeld", ox.scale = "time")
+```
+
+The residual plot looks OK.  The blue dashed line does not significantly depart from the null assumption of the red dashed line.
+
+
+## Test of proportional hazards assumption
+
+### Model 3 - Gender
+
+Note: This is not available through the SPSS syntax.
+
+```{r coxzph}
+cox03.test <- cox.zph(cox03)
+cox03.test
+ggcoxzph(cox03.test)
+```
+
+The plot and the chi-sq statistic indicate no concern regarding the assumption of proportional hazards for the Gender variable.
+
+### still to add
+
+### check proportional hazards assumption with time dependent covariates
+
+see from slide 72
+
+add KM curves for Gender and BMI_cat
+
+For model 11 we will separately test the following interaction terms:
+Time*Gender
+Time*Age
+Time*BMI_cat
+Time*HR
+
+### Goodness of fit
+
+Refer to the pseudo R sq from coxph()
+
+Looking at the output below, it does not seem to be there.  Need to check.
+
+```{r}
+summary(cox11)
+```
+
+
+### End of Survival workshop examples

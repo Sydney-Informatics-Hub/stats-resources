@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    
+    <title>SurvivalAnalysis | </title>
+    
+    <base>
+    <meta name="description" content="```{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE) ``` ### R scripts to accompany the examples in the workshop These R code chunks are largely equivalent to the SPSS syntax that was... " >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" value="notranslate">
+    <link rel="icon"  type="image/x-icon" href="assets/favicon.ico">
+
+    <!-- FontAwesome (GPL license) -->
+   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- jQuery (MIT license)-->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <!-- jQuery cookie (MIT license)-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+    <!-- Navgoco (BSD license)-->
+    <script type="text/javascript" src="assets/js/jquery.navgoco.min.js"></script>
+    <!-- Bootstrap (MIT license)-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- Anchor JS (MIT license)-->
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/2.0.0/anchor.min.js"></script>
+        <script>
+        $( document ).ready(function() {
+            anchors.add('h2,h3,h4,h5');
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+        </script>
+    
+
+    <script>
+        $( document ).ready(function() {
+            $("#docnavsidebar").navgoco({
+                caretHtml: '',
+                accordion: false,
+                openClass: 'open', // open
+                save: true,
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 300,
+                    easing: 'swing'
+                }
+            });
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#docnavsidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#docnavsidebar").navgoco('toggle', true);
+            });
+        });
+
+    </script>
+
+ <!-- For responsive button to toggle sidebar -->
+    <script>
+        $(document).ready(function() {
+            $('[data-toggle=offcanvas]').click(function() {
+                $('.row-offcanvas').toggleClass('active');
+            });
+        });
+    </script>
+
+    <!-- User defined js -->
+    <script src="assets/js/user_defined_javascript.js"></script>
+    <!--Bootstrap (MIT license) -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <!-- Original theme from Bootstrap Bootswatch fork: http://www.codeply.com/go/rV7KhUjwCN (MIT license) -->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/user_defined_web_styles.css" />
+    <style>
+        ul#markdown-toc::before  {
+        content: "Table of Contents"
+         }
+    </style>
+
+</head>
+<body class="default">
+<div class="page-container">
+
+
+    <!-- Top Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container topnavlinks">
+            <div class="navbar-header">
+              
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="fa fa-bars fa-2x"></span>
+                </button>
+                
+                
+                <button type="button" class="navbar-toggle toggle-sidebar-button"  data-toggle="offcanvas" data-target=".sidebar-nav">
+                    <span class="sidebarToggle fa fa-columns fa-2x"></span>
+                </button>
+                
+
+
+                  
+  <div class="navbar-brand"><a class="noExtIcon" href="index.html"><img class="navbar-logo" src="assets/SIHlogo.png"/></a></div>
+  
+
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-left">
+
+                    <!-- single item nav items appear here -->
+
+                    
+                    
+                    
+                    
+
+                          <!-- drop-down nav items appear here -->
+
+                    
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">SIH Website & Training calendar<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+                            
+                            <li><a href="https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html" class="noExtIcon">SIH Website</a></li>
+                            
+                            
+                            
+                            <li><a href="https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training/training-calendar.html" class="noExtIcon">Training calendar</a></li>
+                            
+                            
+                        </ul>
+                    </li>
+
+                    
+                    
+                    <li><a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:sih.info@sydney.edu.au?subject=SIH resource page feedback&body=I have some feedback about the SurvivalAnalysis page: ' + window.location.href;"><i class="fa fa-envelope-o topnavfeedback"></i>Feedback</a><li>
+
+                    
+
+                    
+                    <li><a target="_blank" href="/assets/files/SurvivalAnalysis_R (4).Rmd" class="editButton noExtIcon"><i class="fa fa-github fa-lg"></i> Edit on GitHub</a>
+</li>
+                    
+
+
+                </ul>
+                
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+
+                     <div id="search-topnav-container">
+                        <form action="search.html" method="get">
+                          <div class="input-group search">
+                            <input type="text" id="search-box" name="query" class="form-control" placeholder="Search ...">
+                            <div class="input-group-btn">
+                              <button class="btn btn-default" type="submit" value="search">
+                                <i class="glyphicon glyphicon-search"></i>
+                              </button>
+                            </div>
+                          </div>
+                        </form>
+                        </div>
+
+
+                    </li>
+                </ul>
+                
+            </div>
+
+        </div>
+
+
+        <!-- /.container -->
+    </nav>
+
+<div class="container">
+        <div class="row row-offcanvas row-offcanvas-left">
+
+            <!-- sidebar -->
+            <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+
+                
+<div class="mydocsidebar">
+
+
+<div class="sidebar-inner">
+
+
+  
+
+
+
+
+    <ul id="docnavsidebar" class="docnav">
+    
+
+    </li>
+</ul>
+
+<hr class="resourceSeparator"></hr>
+<div class="relatedResources"></div>
+<ul id="entrypages">
+        
+    </li>
+</ul>
+</div>
+</div>
+<script>$("li.open").parents('li').toggleClass("open");</script>
+
+
+            </div>
+
+            <!-- main area -->
+            <div class="col-xs-12 col-sm-9 main">
+
+                    <div class="subtitle">
+                    
+
+
+<a href="https://sydney-informatics-hub.github.io/stats-resources/" class="noExtIcon productSubtitle">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;assets&nbsp;&nbsp;>&nbsp;&nbsp;files
+    
+
+
+
+
+                      </div>
+
+                      
+
+
+                    <h1>SurvivalAnalysis</h1>
+
+                
+                    ```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### R scripts to accompany the examples in the workshop
+
+These R code chunks are largely equivalent to the SPSS syntax that was used to produce the output that is shown on the workshop slides.  If you prefer to use R, you can use the following scripts as a guide.  Note that the output produced by this code is not necessarily exactly the same as that produced by the SPSS syntax.
+
+### Load packages
+
+We will use a number of packages including "survival" and "survminer".  Refer to the list below for other packages used.  If you haven't already installed them, you will need to do this before using the library() function.
+
+```{r packages, echo=TRUE, message=FALSE, warning=FALSE}
+library(survival)
+library(survminer)
+library(ggplot2)
+library(ggfortify)
+library(My.stepwise)
+library(gt)
+library(gtsummary)
+```
+
+### Load the data
+
+The data file is WHAS500data.csv
+
+This is found at the Wiley website here:
+
+ftp://ftp.wiley.com/public/sci_tech_med/survival
+
+```{r data, include=FALSE}
+# load the data (make sure it is in your working directory)
+whas500 <- read.csv("WHAS500data.csv", header = TRUE)
+factor(x = whas500$year, levels = c(1,2,3), labels = c("2016", "2017", "2018"))
+factor(x = whas500$Gender, levels = c(0,1), labels = c("Male", "Female"))
+```
+
+
+## Kaplan Meier
+
+Create the Kaplan-Meier survival object and include Gender as a factor.
+
+We create a Surv() object then parse it to the survfit() function.
+
+### We can use the plot() function to create a basic graph.
+
+```{r KM, echo=TRUE}
+kmfit <- survfit(Surv(lenfol, fstat) ~ Gender, data = whas500)
+# summary(kmfit) # this is suppressed to save space.
+plot(
+  kmfit,
+  mark = "+",
+  main = "Kaplan-Meier curve",
+  xlab = "Total length of follow up (days)",
+  ylab = "Cumulative Survival"
+)
+```
+
+### Alternative way to plot the K-M curve using ggplot2::autoplot
+
+This includes confidence interval shading by default.
+
+```{r KM plot, echo=TRUE}
+ggplot2::autoplot(kmfit,
+                  main = "Kaplan-Meier curve with ggplot2::autoplot",
+                  xlab = "Total length of follow up (days)",
+                  ylab = "Cumulative Survival"
+                  )
+```
+
+### Another option is to use survminer::ggsurvplot
+
+```{r KMsurvminer, echo=TRUE}
+ggsurvplot(
+  kmfit,
+  data = whas500,
+  conf.int = T,
+  legend = "bottom",
+  main = "Kaplan-Meier curve with survminer::ggsurvplot",
+  xlab = "Total length of follow up (days)",
+  ylab = "Cumulative Survival",
+  break.time.by = 365,
+  ggtheme = theme_minimal()
+)
+```
+
+
+## Cox Regression
+
+Start with stepwise selection of covariates.
+
+```{r Cox, echo=TRUE}
+# define list of variables to select from
+var.select <-
+  c(
+    "Gender",
+    "Age",
+    "hr",
+    "sysbp",
+    "diabp",
+    "bmi",
+    "cvd",
+    "afb",
+    "sho",
+    "chf",
+    "av3",
+    "miord",
+    "mitype",
+    "year"
+  )
+# Use the My.stepwise package to create the stepwise selection model
+coxstep <-
+  My.stepwise.coxph(
+    Time = "lenfol",
+    Status = "fstat",
+    variable.list = var.select,
+    data = whas500
+  )
+```
+
+## Collett method for variable selection
+
+These will use the survival::coxph() function
+
+Model 1: null model
+
+```{r model01}
+cox01 <- coxph(Surv(lenfol, fstat) ~ 1, data = whas500)
+AIC01 <- extractAIC(cox01)
+```
+
+Model 2: Age
+
+```{r model02}
+cox02 <- coxph(Surv(lenfol, fstat) ~ Age, data = whas500)
+AIC02 <- extractAIC(cox02)
+```
+
+Model 3: Gender
+
+```{r model03}
+cox03 <- coxph(Surv(lenfol, fstat) ~ Gender, data = whas500)
+AIC03 <-extractAIC(cox03)
+```
+
+Model 4: BMI
+
+```{r model04}
+cox04 <- coxph(Surv(lenfol, fstat) ~ bmi, data = whas500)
+AIC04 <- extractAIC(cox04)
+```
+
+Model 5: Heart Rate
+
+```{r model05}
+cox05 <- coxph(Surv(lenfol, fstat) ~ hr, data = whas500)
+AIC05 <- extractAIC(cox05)
+```
+
+Model 6: Age + Gender + BMI
+
+```{r model06}
+cox06 <- coxph(Surv(lenfol, fstat) ~ Age + Gender + bmi, data = whas500)
+AIC06 <- extractAIC(cox06)
+```
+
+Model 7: Age + Gender + HR
+
+```{r model07}
+cox07 <- coxph(Surv(lenfol, fstat) ~ Age + Gender + hr, data = whas500)
+AIC07 <- extractAIC(cox07)
+```
+
+Model 8: Age + BMI + HR
+
+```{r model08}
+cox08 <- coxph(Surv(lenfol, fstat) ~ Age + bmi + hr, data = whas500)
+AIC08 <- extractAIC(cox08)
+```
+
+Model 9: Gender + BMI + HR
+
+```{r model09}
+cox09 <- coxph(Surv(lenfol, fstat) ~ Gender + bmi + hr, data = whas500)
+AIC09 <- extractAIC(cox09)
+```
+
+Model 10: Age+Gender+BMI+HR
+
+```{r model10}
+cox10 <- coxph(Surv(lenfol, fstat) ~ Age + Gender + bmi + hr, data = whas500)
+AIC10 <- extractAIC(cox10)
+```
+
+Create a table of the AIC values. 
+
+To be done ####
+
+## Linearity of continuous predictors
+
+Create a variable for BMI categories
+
+```{r bmi_cat}
+bmi.cat <- cut(whas500$bmi, breaks = c(0, 18.5, 25, 30, 9999), labels = c("underweight", "normal weight", "overweight", "obese"), right = F)
+whas500$bmi.cat <- bmi.cat
+```
+
+Have a look at the Kaplan-Meier curves with BMI categories
+
+```{r KM.bmi.cat}
+km.bmi.cat <- survfit(Surv(lenfol, fstat) ~ bmi.cat, data = whas500)
+ggplot2::autoplot(km.bmi.cat,
+                  main = "Kaplan-Meier curve for BMI categories",
+                  xlab = "Total length of follow up (days)",
+                  ylab = "Cumulative Survival"
+                  )
+```
+
+
+### Model 11: Age + Gender + BMI(cat) + HR
+
+Create models including the BMI category variable
+
+```{r model11, warning=FALSE}
+cox11 <- coxph(Surv(lenfol, fstat) ~ Age + Gender + bmi.cat + hr, data = whas500)
+AIC11 <- extractAIC(cox11)
+cox11.fit <- survfit(cox11)
+gtsummary::tbl_regression(cox11, exponentiate = T)
+```
+
+
+### Plot the Cox model 11 survival curves for the BMI categories
+
+Cox survival curves using survminer::ggadjustedcurves
+
+```{r coxsurvminer}
+ggadjustedcurves(cox11, data = whas500, variable = "bmi.cat")
+```
+
+## Schoenfeld Residuals
+
+Have a look at the plot for the Gender variable (Model 3) using survminer::ggcoxdiagnostics
+
+```{r resid, message=FALSE, warning=FALSE}
+ggcoxdiagnostics(cox03, type = "schoenfeld", ox.scale = "time")
+```
+
+The residual plot looks OK.  The blue dashed line does not significantly depart from the null assumption of the red dashed line.
+
+
+## Test of proportional hazards assumption
+
+### Model 3 - Gender
+
+Note: This is not available through the SPSS syntax.
+
+```{r coxzph}
+cox03.test <- cox.zph(cox03)
+cox03.test
+ggcoxzph(cox03.test)
+```
+
+The plot and the chi-sq statistic indicate no concern regarding the assumption of proportional hazards for the Gender variable.
+
+### still to add
+
+### check proportional hazards assumption with time dependent covariates
+
+see from slide 72
+
+add KM curves for Gender and BMI_cat
+
+For model 11 we will separately test the following interaction terms:
+Time*Gender
+Time*Age
+Time*BMI_cat
+Time*HR
+
+### Goodness of fit
+
+Refer to the pseudo R sq from coxph()
+
+Looking at the output below, it does not seem to be there.  Need to check.
+
+```{r}
+summary(cox11)
+```
+
+
+### End of Survival workshop examples
+                  
+
+                    
+
+
+
+            </div>
+        </div><!--/.container-->
+
+
+    </div><!--/.page-container-->
+    <!-- * Bootsnipp footer: http://bootsnipp.com/snippets/1KEEq (MIT license) -->
+
+<div class="footertop">
+    <div class="container">
+        <div class="col-md-6">
+            <p></p>
+        </div>
+        <div class="col-md-6">
+            <ul class="bottom_ul">
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 col-sm-6 footerleft ">
+
+
+              
+                        <div class="logofooter"> About this Site</div>
+                <p class="footer-description">This site is managed by the Statistics Consulting team at the Sydney Informatics Hub. Please get in touch via the feedback button above if you encounter any issues.</p>
+
+            </div>
+            <div class="col-md-2 col-sm-6 paddingtop-bottom">
+                <h6 class="heading7"></h6>
+                <ul class="footer-ul">
+                  
+                </ul>
+            </div>
+
+            <div class="col-md-2 col-sm-6 paddingtop-bottom">
+              <h6 class="heading7"></h6>
+              <ul class="footer-ul">
+                
+              </ul>
+            </div>
+
+            <div class="col-md-3 col-sm-6 paddingtop-bottom">
+              <h6 class="heading7"></h6>
+              <ul class="footer-ul">
+                
+              </ul>
+            </div>
+
+
+        </div>
+    </div>
+    </div>
+</footer>
+<!--subfooter start from here -->
+
+<div class="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            <p>© 2023 Sydney Informatics Hub</p>
+        </div>
+    </div>
+</div>
+
+
+    <!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+
+</body>
+
+</html>

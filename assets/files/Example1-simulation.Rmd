@@ -1,0 +1,136 @@
+---
+title: "Power simulation for example 1"
+author: "Jim Matthews"
+date: "18/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Chicken Welfare - bone density (difference between 2 means)  
+
+load the required packages
+
+```{r load packages, echo=TRUE, message=FALSE, warning=FALSE}
+library('paramtest')
+library('pwr')
+library('tidyverse')
+```
+
+### Create a function to simulate data and perform t-test
+
+the function creates two normally distributed samples of data, namely x1 and x2  
+x1 has mean = 0 and SD = 1  
+x2 has mean = d and SD = 1  
+the function requires you to specify the standardised effect size, d  
+and the sample size for each group, N  
+
+```{r t_func, echo=TRUE}
+t_func <- function(simNum, N, d) {
+  x1 <- rnorm(N, 0, 1)
+  x2 <- rnorm(N, d, 1)
+  
+  t <- t.test(x1, x2, var.equal = TRUE)  # run t-test
+  stat <- t$statistic
+  p <- t$p.value
+  
+  return(c(t = stat, p = p, sig = (p < .05)))
+  # return a named vector with the results we want to keep
+  # value of sig will be TRUE or FALSE based on the p value
+}
+```
+
+### Specify the values of sample size N (per group) and cohens d for the smallest effect size of interest
+
+We will begin with using values of d and N from the G*Power example  
+Sample size N = 64  
+cohen's d = 0.5  
+number of iterations = 1000  
+Use paramtest::run_test() to run our required number of iterations of the function
+results go in the object "power_ttest"
+
+```{r power_ttest, echo=TRUE}
+power_ttest <-
+  run_test(
+    t_func,
+    n.iter = 1000,
+    output = 'data.frame',
+    N = 64,
+    d = .5
+  )
+```
+
+### report the proportion of "sig" values that are TRUE
+
+```{r results, echo=TRUE}
+results(power_ttest) %>%
+  summarise(power = mean(sig))
+```
+
+Compare the reported value with the value from G*Power (power = 0.8015)  
+Note that it will be slightly different, but accuracy can be improved by increasing the number of iterations.  
+
+### Use paramtest::grid_search() to explore scenarios
+
+give the params argument a list of parameters we want to vary.  
+lets try N=50, N=100 and N=150 (per group)
+
+```{r scenario_N, echo=TRUE}
+power_ttest_vary <-
+  grid_search(
+    t_func,
+    params = list(N = c(50, 100, 150)),
+    n.iter = 1000,
+    output = 'data.frame',
+    d = .5
+  )
+results(power_ttest_vary) %>%
+  group_by(N.test) %>%
+  summarise(power = mean(sig))
+```
+  
+### Scenarios: 2 parameters varying
+
+vary N and Cohen's d  
+We will use values to cover the range shown in the G*Power example.  
+
+```{r vary2, echo=TRUE}
+power_ttest_vary2 <-
+  grid_search(
+    t_func,
+    params = list(N = c(25, 50, 100, 200), d = c(.33, .5, .67)),
+    n.iter = 1000,
+    output = 'data.frame'
+  )
+power <- results(power_ttest_vary2) %>%
+  group_by(N.test, d.test) %>%
+  summarise(power = mean(sig))
+print(power)
+```
+  
+### Plot the power simulation
+
+```{r plot2, echo=TRUE}
+ggplot(power, aes(
+  x = N.test,
+  y = power,
+  group = factor(d.test),
+  colour = factor(d.test)
+)) +
+  geom_point() +
+  geom_line() +
+  ylim(c(0, 1)) +
+  xlim(c(0, 200)) +
+  labs(x = 'Sample Size', y = 'Power', colour = "Cohen's d") +
+  theme_minimal()
+```
+
+Compare the plot with the G*Power plot.  They are roughly similar.  
+
+Note: I have set n.iter = 1000 for each simulation to keep the run time very short.  Consider increasing n.iter to improve accuracy of results.
+
+This simulation method can be generalised to a wide variety of statistical models.  Other packages may be preferred for specific situations.  
+
+Reference: https://cran.r-project.org/web/packages/paramtest/vignettes/Simulating-Power.html
