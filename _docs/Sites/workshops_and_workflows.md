@@ -54,7 +54,7 @@ This workshop focuses on practical data analysis by presenting statistical workf
   
 ##### Linear Models 3: Advanced Topics, Tips, and Tricks 
 This workshop focuses specifically on reporting and interpretation estimated marginal means, confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable 'importance', plus other reporting and interpretation tricks. As well as model parameterisation using the design matrix (interpreting categorical predictor parameters, dummy coding, effects coding) and more on mixed models (introducing the random slope).
-  * [Linear Models 3 v1.42](assets/files/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.42%206-10-2022.pdf)
+  * [Linear Models 3 v1.45](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.45%2026-4-2023.pdf)
 
 ##### Statistical Model Building 
 This workshop examines and illustrates the key aspects and strategies of statistical model building to help you answer your research question, and avoid common pitfalls, erroneous models and incorrect conclusions. Appropriate statistical model building will help you to gain knowledge, as opposed to simply getting the best prediction (although that can be a goal as well). We will focus on concepts such as variable selection, multi-collinearity, interactions, selecting a model building strategy, comparing models and evaluating models. In general, these concepts are useful for any statistical model building. This workshop will provide generalised linear regression model examples. The focus will be on practical application of concepts, so mathematical descriptions will be kept to a minimum.
