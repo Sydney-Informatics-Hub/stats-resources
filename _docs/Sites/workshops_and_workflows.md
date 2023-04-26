@@ -84,7 +84,7 @@ This workshop provides research students with a theoretical and practical introd
 
 ##### Introduction to Survival Analysis 
 Survival analysis is used when you want to measure the time elapsed up to when a specified event occurs. It is commonly used in studies where subjects are followed until death occurs, hence the name. In this workshop we will introduce some key concepts pertaining to survival analysis, including censoring of cases, the survival function, and the hazard ratio estimator. The Kaplan Meier survival curve will be explained through a worked example and the technique of Cox proportional hazards regression will be introduced using the same example dataset. You will be provided with software code in SPSS and R to reproduce the analysis presented in the workshop.
-   * [Introduction to Survival Analysis v22.12 handout.pdf](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%20HANDOUT%20v22.12%2026-04-2023.pdf)) 
+   * [Introduction to Survival Analysis v22.12.pdf](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Introduction%20to%20Survival%20Analysis%20HANDOUT%20v22.12%2026-04-2023.pdf)
    * [WHAS500 csv Data](assets/files/WHAS500data.csv) 
    * [Survival R Markdown](assets/files/SurvivalAnalysis_R%20(4).Rmd) 
    * [Survival R html](assets/files/SurvivalAnalysis_R%20(2).html) 
