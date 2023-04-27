@@ -74,7 +74,7 @@ This workshop builds on the information from Surveys 1. It explores topics inclu
 
 ##### Multivariate Statistical Analysis 1: Dimension Reduction 
 In multivariate statistics we simultaneously model and estimate variability in more than one variable often in order to examine the relationship between variables. This workshop examines the key aspects of moving from univariate to multivariate analysis, and the situations where multivariate analysis is typically applied. The focus will be on practical application of concepts through examples.
-   * [Multivariate Statistical Analysis 1: Dimension Reduction v1.8](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Multivariate%20Statistical%20Analysis%20v1.8.pdf)
+   * [Multivariate Statistical Analysis 1: Dimension Reduction v1.8](assets/files/Multivariate%20Statistical%20Analysis%20v1.8.pdf)
 
 ##### Meta-Analysis: An Introduction 
 This workshop provides research students with a theoretical and practical introduction to meta-analysis as part of a systematic review. In this workshop we will be examining the process of performing a meta-analysis, in particular focusing on key statistical concepts such as heterogeneity and Fixed and Random effects modelling. The available choices of statistical software will be discussed, and you will be shown worked examples using the metafor package in R. A basic knowledge of R software is desirable, but not necessary, since you are not expected to produce and run your own code during the workshop.
