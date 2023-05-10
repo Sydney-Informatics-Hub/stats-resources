@@ -31,7 +31,7 @@ Data analysis concepts will be covered in detail, including how experimental des
 
 ##### Experimental Design 
 This workshop focuses on the key aspects of experimental design that you may need to apply in your research. Topics include your experimental validity, randomisation and bias, blinding and bias, blocking and confounding, fixed and random effects, replication and experimental units. The workshop provides the opportunity to discuss your own research questions and associated experimental design. No pre-requisite knowledge of statistical methods is required. Higher degree research students engaging in new research are especially invited to attend.
-  * [Experimental Design v1.23](assets/files/Experimental%20Design%20v%201.23.pdf)
+  * [Experimental Design v1.4](assets/files/Experimental%20Design%20v%201.4.pdf)
 
 ##### Power and Sample Size 
 These calculations will help you to determine the number of necessary subjects to include in your study, for completion of ethics and grant requirements, ensuring that you have thoroughly thought about your study design. This workshop covers the theory and concepts of power analysis and includes worked examples using GPower software. You will follow the examples on your own laptop PC or Mac. It is essential you have GPower pre-installed on your machine prior to the workshop.
