@@ -60,7 +60,7 @@ This workshop focuses on practical data analysis by presenting statistical workf
   
 ##### Linear Models 3: Building interpretable models that enable knowledge creation, and other tips and tricks  
 Statistical analysis is about more than just building the best predictive model, it should also enable researchers to discover new things to build knowledge. To do this researchers need to test hypotheses, uncover unknown patterns, and present results in a meaningful way. In short, researchers need to build interpretable models. This workshop explores tips and tricks to make your statistical analyses do just that. Topics covered will be:
-*	Reporting tricks that aid interpretation - estimated marginal means, confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable ‘importance’, plus other reporting and interpretation tricks.
+**	Reporting tricks that aid interpretation - estimated marginal means, confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable ‘importance’, plus other reporting and interpretation tricks.
 *	Model Parameterisation using the Design Matrix - interpreting categorical predictor parameters, dummy and effects coding.
 *	More on Mixed Models - introducing the random slope.
     
