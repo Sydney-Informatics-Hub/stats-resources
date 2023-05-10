@@ -63,7 +63,7 @@ Statistical analysis is about more than just building the best predictive model,
 *	Reporting tricks that aid interpretation - estimated marginal means, confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable ‘importance’, plus other reporting and interpretation tricks.
 *	Model Parameterisation using the Design Matrix - interpreting categorical predictor parameters, dummy and effects coding.
 *	More on Mixed Models - introducing the random slope.
-
+    
   * [Linear Models 3 v1.45](assets/files/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.45%2026-4-2023.pdf)
 
 ##### Statistical Model Building 
