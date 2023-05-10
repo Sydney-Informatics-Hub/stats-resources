@@ -52,7 +52,7 @@ The material is organised around Statistical Workflows, applicable in any softwa
 
 ##### Linear Models 1: Linear Regression, ANOVA, ANCOVA and Repeated Measures (a Simple Mixed Model) 
 This workshop focuses on practical data analysis by presenting statistical workflows appliable in any software for 4 of the most common univariate analyses: linear regression, ANOVA, ANCOVA, and repeated measures (a simple mixed model) – all assuming a normal (gaussian) residual. These workflows can be easily extended to more complex models. The R code used to create output is also included. 
-  * [Linear Models 1 v1.22](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.22%2029-8-2022.pdf)
+  * [Linear Models 1 v1.26](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.26%2010-5-2023.pdf)
  
 ##### Linear Models 2: Logistic and Poisson/Count Regression - An Introduction to Generalised Linear Models 
 This workshop focuses on practical data analysis by presenting statistical workflows applicable in any software for 2 of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. The R code used to create output is also included.
