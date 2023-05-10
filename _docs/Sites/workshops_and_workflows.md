@@ -56,7 +56,7 @@ This workshop focuses on practical data analysis by presenting statistical workf
  
 ##### Linear Models 2: Logistic and Poisson/Count Regression - An Introduction to Generalised Linear Models 
 This workshop focuses on practical data analysis by presenting statistical workflows applicable in any software for 2 of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. The R code used to create output is also included.
-  * [Linear Models 2 v2.8](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.8%202-9-2022.pdf)
+  * [Linear Models 2 v2.11](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.11%2010-5-2023.pdf)
   
 ##### Linear Models 3: Building interpretable models that enable knowledge creation, and other tips and tricks  
 Statistical analysis is about more than just building the best predictive model, it should also enable researchers to discover new things to build knowledge. To do this researchers need to test hypotheses, uncover unknown patterns, and present results in a meaningful way. In short, researchers need to build interpretable models. This workshop explores tips and tricks to make your statistical analyses do just that. Topics covered will be:
