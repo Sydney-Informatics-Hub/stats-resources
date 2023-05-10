@@ -43,6 +43,12 @@ These calculations will help you to determine the number of necessary subjects t
 
 
 #### Statistical Modelling 
+This pathway consits of:
+   * 3 workshops for researchers interested in statistical methods such as linear regression, ANOVA, ANCOVA, mixed models, logistic/binary and count (Poisson) regression. Each one builds on the preceding workshop and together they show how all these analyses can be performed using the same easy to understand Generalised Linear Mixed Model (GLMM) framework and workflow. Additionally, how they can be used to analyse experimental designs such as Control vs Treatment, Randomised Control Trials (RCTs), Before After Control Impact (BACI) analysis, repeated measures, plus many more. 
+   * A 4th complementary workshop called Statistical Model Building which we recommend for those experienced with Linear Models or for those who have done at least the first 2 of our Linear Models workshops.
+
+The material is organised around Statistical Workflows, applicable in any software, giving practical step-by-step instructions on how to do the analysis, including assumption testing, model interpretation, and presentation of results
+
 
 ##### Linear Models 1: Linear Regression, ANOVA, ANCOVA and Repeated Measures (a Simple Mixed Model) 
 This workshop focuses on practical data analysis by presenting statistical workflows appliable in any software for 4 of the most common univariate analyses: linear regression, ANOVA, ANCOVA, and repeated measures (a simple mixed model) – all assuming a normal (gaussian) residual. These workflows can be easily extended to more complex models. The R code used to create output is also included. 
@@ -52,8 +58,11 @@ This workshop focuses on practical data analysis by presenting statistical workf
 This workshop focuses on practical data analysis by presenting statistical workflows applicable in any software for 2 of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. The R code used to create output is also included.
   * [Linear Models 2 v2.8](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.8%202-9-2022.pdf)
   
-##### Linear Models 3: Advanced Topics, Tips, and Tricks 
-This workshop focuses specifically on reporting and interpretation estimated marginal means, confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable 'importance', plus other reporting and interpretation tricks. As well as model parameterisation using the design matrix (interpreting categorical predictor parameters, dummy coding, effects coding) and more on mixed models (introducing the random slope).
+##### Linear Models 3: Building interpretable models that enable knowledge creation, and other tips and tricks  
+Statistical analysis is about more than just building the best predictive model, it should also enable researchers to discover new things to build knowledge. To do this researchers need to test hypotheses, uncover unknown patterns, and present results in a meaningful way. In short, researchers need to build interpretable models. This workshop explores tips and tricks to make your statistical analyses do just that. Topics covered will be:
+–	Reporting tricks that aid interpretation - estimated marginal means, confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable ‘importance’, plus other reporting and interpretation tricks.
+–	Model Parameterisation using the Design Matrix - interpreting categorical predictor parameters, dummy and effects coding.
+–	More on Mixed Models - introducing the random slope.
   * [Linear Models 3 v1.45](assets/files/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.45%2026-4-2023.pdf)
 
 ##### Statistical Model Building 
