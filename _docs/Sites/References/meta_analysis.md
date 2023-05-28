@@ -7,7 +7,7 @@ product: SIH Statistics Resources
 
 **Systematic Review, USYD library** [**@Usyd library**](https://www.library.sydney.edu.au/research/systematic-review/?section=overview)
 
-Stani says: A great resource by our very own library to get started with systematic reviews.
+*Stani says: A great resource by our very own library to get started with systematic reviews.*
 
 **Borenstein, M. Introduction to Meta-Analysis** [**@USyd library**](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991002771109705106)
 
