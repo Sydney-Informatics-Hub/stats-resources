@@ -5,6 +5,10 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
+**Systematic Review, USYD library** [**@Usyd library**](https://www.library.sydney.edu.au/research/systematic-review/?section=overview)
+
+Stani says: A great resource by our very own library to get started with systematic reviews.
+
 **Borenstein, M. Introduction to Meta-Analysis** [**@USyd library**](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991002771109705106)
 
 *Jim says: Borenstein is a world renowned expert on meta-analysis and is responsible for developing the Comprehensive Meta-Analysis (CMA) software tool. His book is well written and is always my first choice when looking for answers to meta-analysis questions.*
