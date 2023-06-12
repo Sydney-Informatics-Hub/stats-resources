@@ -5,9 +5,13 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
+### Meet our team
+
 ![The Statistical Consulting Unit](assets/stats_team_2023_1.png)
 
-From left, Dr. Kathrin Schemann, Dr. Alex Shaw, Chris Howden, Dr. Stanislaus Stadlmann, Jim Matthews, Dr. Alexandra Green
+*From left, Kathrin, Alex, Chris, Stani, Jim and Ali*
+
+### Our current staff
 
 * Chris Howden, Team Lead
 * Dr. Kathrin Schemann, Senior Statistical Consultant
