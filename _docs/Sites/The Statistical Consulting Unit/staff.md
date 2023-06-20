@@ -9,7 +9,7 @@ product: SIH Statistics Resources
 
 ![The Statistical Consulting Unit](assets/stats_team_2023_1.png)
 
-*From left, Kathrin, Alex, Chris, Stani, Jim and Ali*
+*From left, Kathrin, Alex, Chris, Stani, Jim and Alexandra*
 
 ### Our current staff
 
