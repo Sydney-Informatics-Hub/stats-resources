@@ -11,7 +11,7 @@ Most initial consults start with you providing a description of the background t
 
 ## No assumed knowledge of statistics required
 
-There is no minimum or maximum level of expected statistical knowledge required to have a consult with us. In fact, we help researchers improve their statistical literacy no matter what their current level of statistical knowledge. We do this by offering you tailored advice for applying statistical methods and directing you to appropriate learning resources, rather than doing analysis work for you.
+There is no minimum or maximum level of expected statistical knowledge required to have a consult with us. We help researchers improve their statistical literacy no matter what their current level of statistical knowledge. We do this by offering you tailored advice for applying statistical methods and directing you to appropriate learning resources, rather than doing analysis work for you.
 
 ## How we help you
 
