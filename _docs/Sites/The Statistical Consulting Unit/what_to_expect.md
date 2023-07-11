@@ -22,6 +22,8 @@ We welcome consults from any researchers and eligible research students from acr
 
 Review the general research workflow above to identify the stage of the workflow you are currently at. Consider bringing the following information listed below to the consult where available:
 
+![General Research Workflow](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/alexshawsydney-google-analytics/assets/general_research_workflow.png)
+
 * Steps 1 & 2: A list of clearly defined research questions and a draft study design including relevant variables (explanatory, design and outcome variables).
 * Steps 3-5: A list of variables for which you intend to collect data, some example data or your full dataset. A list of the variables required for your analysis.
 * Step 6: A proposed analysis plan. The results of your exploratory data analysis.
