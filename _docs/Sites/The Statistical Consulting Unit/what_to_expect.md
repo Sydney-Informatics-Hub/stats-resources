@@ -34,7 +34,7 @@ If you don’t know how to prepare the above information, consider attending the
 
 ## How to request a consult
 
-[Click here](contact-us) for information
+Find out how to [contact us](contact-us) to request a consult
 
 ## Where to go for an in-person consult
 
