@@ -46,7 +46,7 @@ folders:
 
       - title: What to expect from a consult
         jurl: /what_to_expect.html
-        ref: what_to_expect
+        ref: what-to-expect
 
       - title: Staff
         jurl: /staff.html
