@@ -38,7 +38,7 @@ If you don’t know how to prepare the above information, consider attending the
 
 ## Where to go for an in-person consult
 
-For an in-person consult, please be at the Sydney Knowledge Hub reception in the Merewether building (H04) five minutes prior to the consult start. The reception is on the second level of the building and can be accessed from City Road or Butlin Ave. You can use the Sydney Uni app to get walking directions, navigate to Merewether room 230 (room ID for reception).
+For an in-person consult, please be at the Sydney Knowledge Hub reception in the Merewether building (H04) five minutes prior to the consult start. The reception is on the second level of the building and can be accessed from City Road or Butlin Ave. You can use the [Sydney Uni app](https://www.sydney.edu.au/students/student-it/apps.html#suapp) to get walking directions, navigate to Merewether room 230 (room ID for reception).
 
 <img src="https://github.com/Sydney-Informatics-Hub/stats-resources/blob/alexshawsydney-google-analytics/assets/skh_reception.jpg" width="400" alt="Sydney Knowledge Hub reception">
 
