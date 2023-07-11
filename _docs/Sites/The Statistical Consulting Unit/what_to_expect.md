@@ -1,5 +1,5 @@
 ---
-title: What to expect from a statistical consulting session 
+title: What to expect in a statistical consulting session 
 permalink: what_to_expect.html
 sidebar: sidebar
 product: SIH Statistics Resources
