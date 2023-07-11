@@ -44,6 +44,10 @@ folders:
         jurl: /contact_us.html
         ref: contact-us
 
+      - title: What to expect from a consult
+        jurl: /what_to_expect.html
+        ref: what_to_expect
+
       - title: Staff
         jurl: /staff.html
         ref: staff
