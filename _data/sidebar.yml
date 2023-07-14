@@ -38,7 +38,7 @@ folders:
 
       - title: About Us
         jurl: /about_us.html
-        ref: about_us
+        ref: about-us
 
       - title: Contact Us
         jurl: /contact_us.html
