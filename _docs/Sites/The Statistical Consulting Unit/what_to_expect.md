@@ -17,7 +17,7 @@ There is no minimum or maximum level of expected statistical knowledge required 
 
 Our approach to helping you during a consult dovetails with the workflows that we have developed as an educational resource. We have a ‘general research workflow’ (shown below) which outlines the typical phases in any quantitative research project, and ‘statistical workflows’ which outline the practical steps we recommend when using various statistical methods. Many of the statistical workflows also have software workflows that show how to apply the methods in common statistical software packages such as R and SPSS. We describe and explore our workflows in depth during our training [workshops](workshops-and-workflows), which are open to all researchers (including honours and postgraduate research students) from the University of Sydney.
 
-<img src="https://github.com/Sydney-Informatics-Hub/stats-resources/blob/alexshawsydney-google-analytics/assets/general_research_workflow.jpg" width="600" alt="General research workflow">
+<img src="assets/general_research_workflow.jpg" width="600" alt="General research workflow">
 
 We welcome consults from any researchers and eligible research students from across the university, at any stage of the general research workflow. Where possible we encourage you to engage with us prior to data collection so that we can aid you in optimising your study design.
  
@@ -40,15 +40,15 @@ Find out how to [contact us](contact-us) to request a consult
 
 For an in-person consult, please be at the Sydney Knowledge Hub reception in the Merewether building (H04) five minutes prior to the consult start. The reception is on the second level of the building and can be accessed from City Road or Butlin Ave. You can use the [Sydney Uni app](https://www.sydney.edu.au/students/student-it/apps.html#suapp) to get walking directions, navigate to Merewether room 230 (room ID for reception).
 
-<img src="https://github.com/Sydney-Informatics-Hub/stats-resources/blob/alexshawsydney-google-analytics/assets/skh_reception.jpg" width="400" alt="Sydney Knowledge Hub reception">
+<img src="assets/skh_reception.jpg" width="400" alt="Sydney Knowledge Hub reception">
 
 *Sydney Knowledge Hub Reception*
 
-<img src="https://github.com/Sydney-Informatics-Hub/stats-resources/blob/alexshawsydney-google-analytics/assets/from_city_rd.jpg" alt="Stairs to Sydney Knowledge Hub reception from City Rd" width="400">
+<img src="assets/from_city_rd.jpg" alt="Stairs to Sydney Knowledge Hub reception from City Rd" width="400">
 
 *Stairs to Sydney Knowledge Hub Reception from City Rd*
 
-<img src="https://github.com/Sydney-Informatics-Hub/stats-resources/blob/alexshawsydney-google-analytics/assets/from_butlin_ave.jpg" width="400" alt="Stairs to Sydney Knowledge Hub reception from Butlin Ave">
+<img src="assets/from_butlin_ave.jpg" width="400" alt="Stairs to Sydney Knowledge Hub reception from Butlin Ave">
 
 *Stairs to Sydney Knowledge Hub Reception from Butlin Ave*
 
