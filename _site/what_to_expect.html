@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    
+    <title>What to expect in a statistical consulting session | SIH Statistics Resources</title>
+    
+    <base>
+    <meta name="description" content="The basics Most initial consults start with you providing a description of the background to your research, and your current research questions. This allows us to gain a working... " >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" value="notranslate">
+    <link rel="icon"  type="image/x-icon" href="assets/favicon.ico">
+
+    <!-- FontAwesome (GPL license) -->
+   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- jQuery (MIT license)-->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <!-- jQuery cookie (MIT license)-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+    <!-- Navgoco (BSD license)-->
+    <script type="text/javascript" src="assets/js/jquery.navgoco.min.js"></script>
+    <!-- Bootstrap (MIT license)-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- Anchor JS (MIT license)-->
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/2.0.0/anchor.min.js"></script>
+        <script>
+        $( document ).ready(function() {
+            anchors.add('h2,h3,h4,h5');
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+        </script>
+    
+
+    <script>
+        $( document ).ready(function() {
+            $("#docnavsidebar").navgoco({
+                caretHtml: '',
+                accordion: false,
+                openClass: 'open', // open
+                save: true,
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 300,
+                    easing: 'swing'
+                }
+            });
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#docnavsidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#docnavsidebar").navgoco('toggle', true);
+            });
+        });
+
+    </script>
+
+ <!-- For responsive button to toggle sidebar -->
+    <script>
+        $(document).ready(function() {
+            $('[data-toggle=offcanvas]').click(function() {
+                $('.row-offcanvas').toggleClass('active');
+            });
+        });
+    </script>
+
+    <!-- User defined js -->
+    <script src="assets/js/user_defined_javascript.js"></script>
+    <!--Bootstrap (MIT license) -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <!-- Original theme from Bootstrap Bootswatch fork: http://www.codeply.com/go/rV7KhUjwCN (MIT license) -->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/user_defined_web_styles.css" />
+    <style>
+        ul#markdown-toc::before  {
+        content: "Table of Contents"
+         }
+    </style>
+
+</head>
+<body class="default">
+<div class="page-container">
+
+
+    <!-- Top Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container topnavlinks">
+            <div class="navbar-header">
+              
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="fa fa-bars fa-2x"></span>
+                </button>
+                
+                
+                <button type="button" class="navbar-toggle toggle-sidebar-button"  data-toggle="offcanvas" data-target=".sidebar-nav">
+                    <span class="sidebarToggle fa fa-columns fa-2x"></span>
+                </button>
+                
+
+
+                  
+  <div class="navbar-brand"><a class="noExtIcon" href="index.html"><img class="navbar-logo" src="assets/SIHlogo.png"/></a></div>
+  
+
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-left">
+
+                    <!-- single item nav items appear here -->
+
+                    
+                    
+                    
+                    
+
+                          <!-- drop-down nav items appear here -->
+
+                    
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">SIH Website & Training calendar<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+                            
+                            <li><a href="https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html" class="noExtIcon">SIH Website</a></li>
+                            
+                            
+                            
+                            <li><a href="https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training/training-calendar.html" class="noExtIcon">Training calendar</a></li>
+                            
+                            
+                        </ul>
+                    </li>
+
+                    
+                    
+                    <li><a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:sih.info@sydney.edu.au?subject=SIH resource page feedback&body=I have some feedback about the What to expect in a statistical consulting session page: ' + window.location.href;"><i class="fa fa-envelope-o topnavfeedback"></i>Feedback</a><li>
+
+                    
+
+                    
+                    <li><a target="_blank" href="/_docs/Sites/The Statistical Consulting Unit/what_to_expect.md" class="editButton noExtIcon"><i class="fa fa-github fa-lg"></i> Edit on GitHub</a>
+</li>
+                    
+
+
+                </ul>
+                
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+
+                     <div id="search-topnav-container">
+                        <form action="search.html" method="get">
+                          <div class="input-group search">
+                            <input type="text" id="search-box" name="query" class="form-control" placeholder="Search ...">
+                            <div class="input-group-btn">
+                              <button class="btn btn-default" type="submit" value="search">
+                                <i class="glyphicon glyphicon-search"></i>
+                              </button>
+                            </div>
+                          </div>
+                        </form>
+                        </div>
+
+
+                    </li>
+                </ul>
+                
+            </div>
+
+        </div>
+
+
+        <!-- /.container -->
+    </nav>
+
+<div class="container">
+        <div class="row row-offcanvas row-offcanvas-left">
+
+            <!-- sidebar -->
+            <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+
+                
+<div class="mydocsidebar">
+
+
+<div class="sidebar-inner">
+
+
+  
+
+
+<div class="productTitle">SIH Statistical Resources</div>
+<p class="external">
+    <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+</p>
+
+
+
+    <ul id="docnavsidebar" class="docnav">
+    
+    
+        
+    
+    <li class="level1"><a href="#">Sites</a>
+        <ul>
+            
+
+            
+            
+            <li class="level1items"><a href="workshops_and_workflows.html">Workshops and Workflows</a></li>
+            
+            
+
+            
+
+            <li class="level2"><a class="subfoldersTitle" href="#">The Statistical Consulting Unit</a>
+                <ul style="display:none;">
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="about_us.html">About Us</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="contact_us.html">Contact Us</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items open"><a href="what_to_expect.html">What to expect in a consult</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="staff.html">Staff</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="acknowledgements.html">Acknowledgements</a></li>
+                    
+                    
+
+                    
+
+                    
+                </ul>
+            </li>
+
+            
+
+            <li class="level2"><a class="subfoldersTitle" href="#">References</a>
+                <ul style="display:none;">
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="basic_stat_theory.html">Basic Statistical Theory</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="linear_models.html">Linear Models</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="logistic_regression.html">Logistic Regression</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="meta_analysis.html">Meta Analysis</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="power_analysis.html">Power Analysis</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="research_essentials.html">Research Essentials</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="statistical_inference.html">Statistical Inference</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="statistical_software.html">Statistical Software</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="survival_analysis.html">Survival Analysis</a></li>
+                    
+                    
+
+                    
+
+                    
+                </ul>
+            </li>
+
+            
+
+            
+        </ul>
+
+        
+
+    </li>
+</ul>
+
+<hr class="resourceSeparator"></hr>
+<div class="relatedResources"></div>
+<ul id="entrypages">
+        
+    </li>
+</ul>
+</div>
+</div>
+<script>$("li.open").parents('li').toggleClass("open");</script>
+
+
+            </div>
+
+            <!-- main area -->
+            <div class="col-xs-12 col-sm-9 main">
+
+                    <div class="subtitle">
+                    
+
+
+<a href="https://sydney-informatics-hub.github.io/stats-resources/" class="noExtIcon productSubtitle">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;Sites&nbsp;&nbsp;>&nbsp;&nbsp;The Statistical Consulting Unit
+    
+
+
+
+
+                      </div>
+
+                      
+
+
+                    <h1>What to expect in a statistical consulting session</h1>
+
+                
+                    <h2 id="the-basics">The basics</h2>
+
+<p>Most initial consults start with you providing a description of the background to your research, and your current research questions. This allows us to gain a working understanding of your project so that we can offer appropriate advice and support. Our consults are usually one hour long. We recommend an in-person consultation wherever possible, as we find the consulting process more effective face to face. Where an in-person consultation is not practical for you, we can meet virtually using Zoom or other AV conferencing software.</p>
+
+<h2 id="no-assumed-knowledge-of-statistics-required">No assumed knowledge of statistics required</h2>
+
+<p>There is no minimum or maximum level of expected statistical knowledge required to have a consult with us. We help researchers improve their statistical literacy no matter what their current level of statistical knowledge. We do this by offering you tailored advice for applying statistical methods and directing you to appropriate learning resources, rather than doing analysis work for you.</p>
+
+<h2 id="how-we-help-you">How we help you</h2>
+
+<p>Our approach to helping you during a consult dovetails with the workflows that we have developed as an educational resource. We have a ‘general research workflow’ (shown below) which outlines the typical phases in any quantitative research project, and ‘statistical workflows’ which outline the practical steps we recommend when using various statistical methods. Many of the statistical workflows also have software workflows that show how to apply the methods in common statistical software packages such as R and SPSS. We describe and explore our workflows in depth during our training <a href="workshops_and_workflows">workshops</a>, which are open to all researchers (including honours and postgraduate research students) from the University of Sydney.</p>
+
+<p><img src="assets/general_research_workflow.jpg" width="600" alt="General research workflow" /></p>
+
+<p>We welcome consults from any researchers and eligible research students from across the university, at any stage of the general research workflow. Where possible we encourage you to engage with us prior to data collection so that we can aid you in optimising your study design.</p>
+
+<h2 id="how-to-prepare-for-a-consult">How to prepare for a consult</h2>
+
+<p>Review the general research workflow above to identify the stage of the workflow you are currently at. Consider bringing the following information listed below to the consult where available:</p>
+
+<ul>
+  <li>Steps 1 &amp; 2: A list of clearly defined research questions and a draft study design including relevant variables (explanatory, design and outcome variables).</li>
+  <li>Steps 3-5: A description of the variables for which you intend to collect data, some example data or your full dataset. A description of the variables required for your analysis.</li>
+  <li>Step 6: A proposed analysis plan. The results of your exploratory data analysis.</li>
+  <li>Step 7 &amp; 8: Output from your analysis</li>
+</ul>
+
+<p>If you don’t know how to prepare the above information, consider attending the Research Essentials <a href="workshops_and_workflows">workshop</a>, which goes through the general research workflow in detail.</p>
+
+<h2 id="how-to-request-a-consult">How to request a consult</h2>
+
+<p>Find out how to <a href="contact_us">contact us</a> to request a consult</p>
+
+<h2 id="where-to-go-for-an-in-person-consult">Where to go for an in-person consult</h2>
+
+<p>For an in-person consult, please be at the Sydney Knowledge Hub reception in the Merewether building (H04) five minutes prior to the consult start. The reception is on the second level of the building and can be accessed from City Road or Butlin Ave. You can use the <a href="https://www.sydney.edu.au/students/student-it/apps.html#suapp">Sydney Uni app</a> to get walking directions, navigate to Merewether room 230 (room ID for reception).</p>
+
+<p><img src="assets/skh_reception.jpg" width="400" alt="Sydney Knowledge Hub reception" /></p>
+
+<p><em>Sydney Knowledge Hub Reception</em></p>
+
+<p><img src="assets/from_city_rd.jpg" alt="Stairs to Sydney Knowledge Hub reception from City Rd" width="400" /></p>
+
+<p><em>Stairs to Sydney Knowledge Hub Reception from City Rd</em></p>
+
+<p><img src="assets/from_butlin_ave.jpg" width="400" alt="Stairs to Sydney Knowledge Hub reception from Butlin Ave" /></p>
+
+<p><em>Stairs to Sydney Knowledge Hub Reception from Butlin Ave</em></p>
+
+<h2 id="see-you-in-the-consult">See you in the consult!</h2>
+
+<p>We look forward to chatting with you about your research during a consult. We continue to learn so much from researchers about the fascinating research taking place at Sydney University. It is a privilege to learn about your research and to contribute to your work by providing you with statistical support.</p>
+
+<!-- left blank intentionally. intended to be overwritten in custom projects. -->
+
+
+                  
+
+                    
+
+
+
+            </div>
+        </div><!--/.container-->
+
+
+    </div><!--/.page-container-->
+    <!-- * Bootsnipp footer: http://bootsnipp.com/snippets/1KEEq (MIT license) -->
+
+<div class="footertop">
+    <div class="container">
+        <div class="col-md-6">
+            <p></p>
+        </div>
+        <div class="col-md-6">
+            <ul class="bottom_ul">
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 col-sm-6 footerleft ">
+
+
+              
+                        <div class="logofooter"> About this Site</div>
+                <p class="footer-description">This site is managed by the Statistical Consulting Unit at the Sydney Informatics Hub. Please get in touch via the feedback button above if you encounter any issues.
+</p>
+
+            </div>
+            <div class="col-md-2 col-sm-6 paddingtop-bottom">
+                <h6 class="heading7"></h6>
+                <ul class="footer-ul">
+                  
+                </ul>
+            </div>
+
+            <div class="col-md-2 col-sm-6 paddingtop-bottom">
+              <h6 class="heading7"></h6>
+              <ul class="footer-ul">
+                
+              </ul>
+            </div>
+
+            <div class="col-md-3 col-sm-6 paddingtop-bottom">
+              <h6 class="heading7"></h6>
+              <ul class="footer-ul">
+                
+              </ul>
+            </div>
+
+
+        </div>
+    </div>
+    </div>
+</footer>
+<!--subfooter start from here -->
+
+<div class="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            <p>© 2023 Sydney Informatics Hub</p>
+        </div>
+    </div>
+</div>
+
+
+    <!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'G-TNWWV3HK57', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+    <style>
+    #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
+    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }
+</style>
+<div id="cookie-notice"><span>We use cookies to analyse our website traffic and understand where our visitors are coming from. <a href="https://www.sydney.edu.au/privacy-statement.html">Privacy Policy</a></span>
+    <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Accept</a>
+    <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Reject</a>
+</div>
+<script>
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    if(readCookie('cookie-notice-option')=='true') {
+        
+    } else if (readCookie('cookie-notice-option')!='false'){
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-option','true',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+    document.getElementById('cookie-notice-deny').addEventListener("click",function() {
+        createCookie('cookie-notice-option','false',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+</script>
+
+
+</body>
+
+</html>
