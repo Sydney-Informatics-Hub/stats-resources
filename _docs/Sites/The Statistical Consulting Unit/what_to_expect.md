@@ -15,7 +15,7 @@ There is no minimum or maximum level of expected statistical knowledge required 
 
 ## How we help you
 
-Our approach to helping you during a consult dovetails with the workflows that we have developed as an educational resource. We have a ‘general research workflow’ (shown below) which outlines the typical phases in any quantitative research project, and ‘statistical workflows’ which outline the practical steps we recommend when using various statistical methods. Many of the statistical workflows also have software workflows that show how to apply the methods in common statistical software packages such as R and SPSS. We describe and explore our workflows in depth during our training [workshops](workshops-and-workflows), which are open to all researchers (including honours and postgraduate research students) from the University of Sydney.
+Our approach to helping you during a consult dovetails with the workflows that we have developed as an educational resource. We have a ‘general research workflow’ (shown below) which outlines the typical phases in any quantitative research project, and ‘statistical workflows’ which outline the practical steps we recommend when using various statistical methods. Many of the statistical workflows also have software workflows that show how to apply the methods in common statistical software packages such as R and SPSS. We describe and explore our workflows in depth during our training [workshops](workshops_and_workflows), which are open to all researchers (including honours and postgraduate research students) from the University of Sydney.
 
 <img src="assets/general_research_workflow.jpg" width="600" alt="General research workflow">
 
@@ -30,11 +30,11 @@ Review the general research workflow above to identify the stage of the workflow
 * Step 6: A proposed analysis plan. The results of your exploratory data analysis.
 * Step 7 & 8: Output from your analysis
 
-If you don’t know how to prepare the above information, consider attending the Research Essentials [workshop](workshops-and-workflows), which goes through the general research workflow in detail.
+If you don’t know how to prepare the above information, consider attending the Research Essentials [workshop](workshops_and_workflows), which goes through the general research workflow in detail.
 
 ## How to request a consult
 
-Find out how to [contact us](contact-us) to request a consult
+Find out how to [contact us](contact_us) to request a consult
 
 ## Where to go for an in-person consult
 

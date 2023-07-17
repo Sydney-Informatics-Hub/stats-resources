@@ -228,29 +228,67 @@ In this section:
 
             
             
-            <li class="level1items"><a href="statistical_consulting.html">How to use the Statistical Consulting unit</a></li>
-            
-            
-
-            
-
-            
-
-            
-            
-            <li class="level1items"><a href="staff.html">Staff</a></li>
-            
-            
-
-            
-
-            
-
-            
-            
             <li class="level1items"><a href="workshops_and_workflows.html">Workshops and Workflows</a></li>
             
             
+
+            
+
+            <li class="level2"><a class="subfoldersTitle" href="#">The Statistical Consulting Unit</a>
+                <ul style="display:none;">
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="about_us.html">About Us</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="contact_us.html">Contact Us</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="what_to_expect.html">What to expect in a consult</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="staff.html">Staff</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="acknowledgements.html">Acknowledgements</a></li>
+                    
+                    
+
+                    
+
+                    
+                </ul>
+            </li>
 
             
 
@@ -438,7 +476,8 @@ In this section:
 
               
                         <div class="logofooter"> About this Site</div>
-                <p class="footer-description">This site is managed by the Statistics Consulting team at the Sydney Informatics Hub. Please get in touch via the feedback button above if you encounter any issues.</p>
+                <p class="footer-description">This site is managed by the Statistical Consulting Unit at the Sydney Informatics Hub. Please get in touch via the feedback button above if you encounter any issues.
+</p>
 
             </div>
             <div class="col-md-2 col-sm-6 paddingtop-bottom">
@@ -481,6 +520,75 @@ In this section:
     <!-- the google_analytics_id gets auto inserted from the config file -->
 
 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'G-TNWWV3HK57', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+    <style>
+    #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
+    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }
+</style>
+<div id="cookie-notice"><span>We use cookies to analyse our website traffic and understand where our visitors are coming from. <a href="https://www.sydney.edu.au/privacy-statement.html">Privacy Policy</a></span>
+    <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Accept</a>
+    <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Reject</a>
+</div>
+<script>
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    if(readCookie('cookie-notice-option')=='true') {
+        
+    } else if (readCookie('cookie-notice-option')!='false'){
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-option','true',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+    document.getElementById('cookie-notice-deny').addEventListener("click",function() {
+        createCookie('cookie-notice-option','false',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+</script>
 
 
 </body>
