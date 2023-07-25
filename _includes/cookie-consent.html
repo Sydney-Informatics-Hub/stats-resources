@@ -35,7 +35,7 @@
     }
 
     if(readCookie('cookie-notice-option')=='true') {
-        {% if site.google_analytics %}
+        {% if site.show_google_analytics %}
             {% include ga.js %}
         {% endif %}
     } else if (readCookie('cookie-notice-option')!='false'){
