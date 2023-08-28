@@ -46,11 +46,11 @@ For an in-person consult, please be at the Sydney Knowledge Hub (SKH) reception 
 
 <img src="assets/from_city_rd.jpg" alt="Stairs to Sydney Knowledge Hub reception from City Rd" width="400">
 
-*Stairs to Sydney Knowledge Hub Reception from City Rd*
+*Stairs and ramp to Sydney Knowledge Hub Reception (level 2) from City Rd*
 
 <img src="assets/from_butlin_ave.jpg" width="400" alt="Stairs to Sydney Knowledge Hub reception from Butlin Ave">
 
-*Stairs to Sydney Knowledge Hub Reception from Butlin Ave*
+*Entry to level 1 and stairs to Sydney Knowledge Hub Reception (level 2) from Butlin Ave*
 
 ## See you in the consult!
 
