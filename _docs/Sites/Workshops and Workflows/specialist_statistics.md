@@ -1,6 +1,6 @@
 ---
 title: Specialist Statistics
-permalink: Specialist_statistics.html
+permalink: specialist_statistics.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
