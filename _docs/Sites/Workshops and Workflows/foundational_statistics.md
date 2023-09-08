@@ -6,8 +6,6 @@ product: SIH Statistics Resources
 ---
 
 
-#### Foundational Statistics 
-
 ##### Research Essentials 
 In this workshop we will give you a systematic workflow to apply to any research data analysis to make your quantitative work comprehensive, efficient, and more suitable for top-tier journals. We introduce you to the resources available from both the Sydney Informatics Hub and across the University that will support you in proceeding from hypothesis generation all the way through to publication. Our research workflow consists of a series of defined steps that will assist you in thinking about your data and preparing it for statistical analysis. Data analysis concepts will be covered in detail, including how experimental design fits into hypothesis generation and your final publication; and how to manage your analysis data and Exploratory Data Analysis (EDA) – an essential and often-overlooked stage of data analysis for determining the appropriate statistical methods to apply in your research. We will show you some of the more advanced statistical analysis methods to give you an idea of what is possible. Note that this workshop does not require knowledge of, or use of specific statistical software. The analysis methods may be performed using a range of university-supported software options.
   * [Research Essentials: Analysing your Data v4.3](assets/files/Research%20Essentials%20v4.3%2022-11-15%20HANDOUT.pdf) 
