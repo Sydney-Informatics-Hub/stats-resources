@@ -11,7 +11,7 @@ We continue to develop and improve our workshop offering through feedback and th
 
 If you would like a synopsis of each workshop, or if you would like to know the next date that our workshops will be delivered to University of Sydney staff and students, [click here](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training.html). To sign up for our training newsletter to hear about upcoming workshops and some training tips [click here](https://signup.e2ma.net/signup/1945889/1928048/).
 
-### Acknowledgement of Workshops
+## Acknowledgement of Workshops
 
 The continued acknowledgment of the use of Sydney Informatics Hub facilities including Statistical Consulting ensures the sustainability of our services. For  acknowledging the use of our workshops and/or workflows, go to the [Acknowledgement of Statistical Consulting Service section](acknowledgements) of this website.
 
