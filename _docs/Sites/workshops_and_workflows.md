@@ -1,5 +1,5 @@
 ---
-title: Workshops and Workflows
+title: Welcome
 permalink: workshops_and_workflows.html
 sidebar: sidebar
 product: SIH Statistics Resources
