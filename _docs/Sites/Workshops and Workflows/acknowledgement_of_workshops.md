@@ -1,6 +1,6 @@
 ---
-title: Workshops and Workflows
-permalink: workshops_and_workflows.html
+title: Acknowledgement of Workshops
+permalink: acknowledgement_of_workshops.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
