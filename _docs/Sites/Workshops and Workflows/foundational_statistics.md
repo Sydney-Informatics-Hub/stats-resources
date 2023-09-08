@@ -5,6 +5,10 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
+This pathway consists of:
+   * Three workshops on the foundations of statistics including (1) Research Essentials; (2) Experimental Design and (3) Power and Sample Size.
+   * The material is organised around Statistical Workflows, applicable in any software, giving practical step-by-step instructions on how to do the analysis, including assumption testing, model interpretation, and presentation of results.
+
 
 ## Research Essentials 
 In this workshop we will give you a systematic workflow to apply to any research data analysis to make your quantitative work comprehensive, efficient, and more suitable for top-tier journals. We introduce you to the resources available from both the Sydney Informatics Hub and across the University that will support you in proceeding from hypothesis generation all the way through to publication. Our research workflow consists of a series of defined steps that will assist you in thinking about your data and preparing it for statistical analysis. Data analysis concepts will be covered in detail, including how experimental design fits into hypothesis generation and your final publication; and how to manage your analysis data and Exploratory Data Analysis (EDA) – an essential and often-overlooked stage of data analysis for determining the appropriate statistical methods to apply in your research. We will show you some of the more advanced statistical analysis methods to give you an idea of what is possible. Note that this workshop does not require knowledge of, or use of specific statistical software. The analysis methods may be performed using a range of university-supported software options.
