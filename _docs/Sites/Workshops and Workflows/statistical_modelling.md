@@ -6,7 +6,6 @@ product: SIH Statistics Resources
 ---
 
 
-#### Statistical Modelling 
 This pathway consists of:
    * Three workshops for researchers interested in statistical methods such as linear regression, ANOVA, ANCOVA, mixed models, logistic/binary and count (Poisson) regression. Each one builds on the preceding workshop and together they show how all these analyses can be performed using the same easy to understand Generalised Linear Mixed Model (GLMM) framework and workflow. Additionally, how they can be used to analyse experimental designs such as Control vs Treatment, Randomised Control Trials (RCTs), Before After Control Impact (BACI) analysis, repeated measures, plus many more. 
    * A fourth complementary workshop called Statistical Model Building which we recommend for those experienced with Linear Models or for those who have done at least the first two of our Linear Models workshops.
