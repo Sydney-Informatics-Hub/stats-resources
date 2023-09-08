@@ -32,7 +32,7 @@ folders:
     ref: workshops-and-workflows 
     
     subfolders:
-    - title: Workshops and Workflows
+    - title: Workshops 
       output: web
       subfolderitems:
 
