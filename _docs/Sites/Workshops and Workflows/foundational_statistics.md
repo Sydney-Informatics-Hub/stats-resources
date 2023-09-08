@@ -1,6 +1,6 @@
 ---
 title: Foundational Statistics
-permalink: Foundational_statistics.html
+permalink: foundational_statistics.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
