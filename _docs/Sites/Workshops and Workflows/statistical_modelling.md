@@ -1,6 +1,6 @@
 ---
 title: Statistical Modelling
-permalink: Statistical_modelling.html
+permalink: statistical_modelling.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
