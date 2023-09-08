@@ -28,13 +28,13 @@ Review the general research workflow above to identify the stage of the workflow
 * Steps 1 & 2: A list of clearly defined research questions and a draft study design including relevant variables (explanatory, design and outcome variables).
 * Steps 3-5: A description of the variables for which you intend to collect data, some example data or your full dataset. A description of the variables required for your analysis.
 * Step 6: A proposed analysis plan. The results of your exploratory data analysis.
-* Step 7 & 8: Output from your analysis
+* Step 7 & 8: Output from your analysis.
 
-If you don’t know how to prepare the above information, consider attending the Research Essentials [workshop](workshops_and_workflows), which goes through the general research workflow in detail.
+If you don’t know how to prepare the above information, consider attending the Research Essentials [workshop](https://sydney-informatics-hub.github.io/stats-resources/foundational_statistics.html), which goes through the general research workflow in detail.
 
 ## How To Request A Consult
 
-Find out how to [contact us](contact_us) to request a consult
+Find out how to [contact us](contact_us) to request a consult.
 
 ## Where To Go For An In-person Consult
 
