@@ -27,16 +27,16 @@ folders:
 
   folderitems:
 
-  - title: Workshops and Workflows
+  - title: Welcome
     jurl: /workshops_and_workflows.html
     ref: workshops-and-workflows 
     
     subfolders:
-    - title: Workshops 
+    - title: Workshops and Workflows
       output: web
       subfolderitems:
 
-      - title: Acknowledgement of Workshops
+      - title: About our Workshops
         jurl: /acknowledgement_of_workshops.html
         ref: acknowledgement-of-workshops
       
