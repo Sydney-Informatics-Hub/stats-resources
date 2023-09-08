@@ -31,3 +31,5 @@ In this workshop we will introduce you to the key aspects and strategies of stat
   * [Statistical Model Building v1.5](assets/files/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf)
 
 
+
+{% include links.html %}
