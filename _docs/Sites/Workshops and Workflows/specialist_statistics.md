@@ -5,6 +5,10 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
+This pathway consists of:
+   * Five workshops on specialist statistical techniques including (1) Design and Analysis of Surveys 1; (2) Design and Analysis of Surveys 2; (3) Multivariate Statistical Analysis; (4) Meta-Analysis and (5) Survival Analysis.
+   * The material is organised around Statistical Workflows, applicable in any software, giving practical step-by-step instructions on how to do the analysis, including assumption testing, model interpretation, and presentation of results.
+
 
 ## Design and Analysis of Surveys 1 
 In this workshop we present a range of practical tips and guidelines on how to design, field, and analyse the more commonly used surveys. The initial focus is on how to setup and field a study. A variety of different questions and scales, including some unorthodox and novel ones, will be presented to give an appreciation of what is possible. Some of the topics covered will be line vs discrete scales, the effect of colour, optimal discrete/LIKERT scales, etc. Then we will present on basic analysis of common question types and reporting. We will discuss the pros and cons of common analyses (e.g. linear vs ordinal regression). The material is software agnostic and can be applied in any software.
