@@ -27,11 +27,27 @@ folders:
 
   folderitems:
 
-  - title: Workshops and Workflows
-    jurl: /workshops_and_workflows.html
-    ref: workshops-and-workflows 
-  
     subfolders:
+    - title: Workshops and Workflows
+      output: web
+      subfolderitems:
+
+      - title: Acknowledgement of Workshops
+        jurl: /acknowledgement_of_workshops.html
+        ref: acknowledgement-of-workshops
+      
+      - title: Foundational Statistics
+        jurl: /foundational_statistics.html
+        ref: foundational-statistics
+
+      - title: Statistical Modelling
+        jurl: /statistical_modelling.html
+        ref: statistical-modelling
+
+      - title: Specialist Statistics
+        jurl: /specialist_statistics.html
+        ref: specialist-statistics
+    
     - title: The Statistical Consulting Unit
       output: web
       subfolderitems:
