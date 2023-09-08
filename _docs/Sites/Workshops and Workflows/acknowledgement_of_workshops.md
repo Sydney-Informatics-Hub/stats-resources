@@ -1,5 +1,5 @@
 ---
-title: Acknowledgement of Workshops
+title: About our Workshops
 permalink: acknowledgement_of_workshops.html
 sidebar: sidebar
 product: SIH Statistics Resources
