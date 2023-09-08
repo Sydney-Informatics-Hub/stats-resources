@@ -1,5 +1,5 @@
 ---
-title: Linear Models (ANOVA, simple linear regression, multiple regression, etc)
+title: Linear Models (ANOVA, Simple Linear Regression, Multiple Regression, etc)
 permalink: linear_models.html
 sidebar: sidebar
 product: SIH Statistics Resources
