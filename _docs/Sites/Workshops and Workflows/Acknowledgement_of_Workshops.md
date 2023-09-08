@@ -15,3 +15,5 @@ If you would like a synopsis of each workshop, or if you would like to know the 
 
 The continued acknowledgment of the use of Sydney Informatics Hub facilities including Statistical Consulting ensures the sustainability of our services. For  acknowledging the use of our workshops and/or workflows, go to the [Acknowledgement of Statistical Consulting Service section](acknowledgements) of this website.
 
+
+{% include links.html %}
