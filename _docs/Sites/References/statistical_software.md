@@ -5,10 +5,10 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-### University Provided Software
+## University Provided Software
 R, Rstudio and Python are freeware which can be downloaded from the web. For a list of other software the university provides access to refer to the article "What software is available to University staff?" on the services portal [**requesting project help**](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0011594) (article KB0011594). At the time of writing this included SPSS, AMOS, GenStat, SAS, Mathematica, MATLAB, ArcGIS.
 
-### R and RStudio
+## R and RStudio
 
 **[Learning the R Tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse/)**
 
@@ -19,7 +19,7 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 *Ali says: This R Ladies Sydney course is a great way to learn the basics of R and tidyverse. It actually helped me learn how to use the tidyverse during my Postdoc in Biostats. It walks you through a range of R packages and functions for data cleaning, visualisation, and presentation, by providing you with easy-to-follow videos, lesson outcomes and tasks, and step-by-step instructions for carrying out these tasks with a sample dataset.*
 
 
-### SPSS
+## SPSS
 
 **[SPSS Statistics Essential Training](https://www.linkedin.com/learning/spss-statistics-essential-training-2)**
 
