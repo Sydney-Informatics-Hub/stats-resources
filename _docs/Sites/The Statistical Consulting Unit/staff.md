@@ -5,7 +5,7 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-## Meet our Team
+## Meet Our Team
 
 ![The Statistical Consulting Unit](assets/stats_team_2023_1.png)
 
