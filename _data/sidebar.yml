@@ -27,6 +27,10 @@ folders:
 
   folderitems:
 
+  - title: Workshops and Workflows
+    jurl: /workshops_and_workflows.html
+    ref: workshops-and-workflows 
+    
     subfolders:
     - title: Workshops and Workflows
       output: web
