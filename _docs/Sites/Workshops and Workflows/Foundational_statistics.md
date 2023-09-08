@@ -24,3 +24,5 @@ In this workshop we will show you how power and sample size calculations will he
   * [Power Simulation html](assets/files/Example1-simulation.html)
   * [Power and Sample Size - SPSS Workflow v1](assets/files/Power%and%sample%size%-%SPSS%v1.pdf)
 
+
+{% include links.html %}
