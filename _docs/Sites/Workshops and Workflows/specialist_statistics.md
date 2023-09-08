@@ -6,8 +6,6 @@ product: SIH Statistics Resources
 ---
 
 
-### Specialist Statistics 
-
 ##### Design and Analysis of Surveys 1 
 In this workshop we present a range of practical tips and guidelines on how to design, field, and analyse the more commonly used surveys. The initial focus is on how to setup and field a study. A variety of different questions and scales, including some unorthodox and novel ones, will be presented to give an appreciation of what is possible. Some of the topics covered will be line vs discrete scales, the effect of colour, optimal discrete/LIKERT scales, etc. Then we will present on basic analysis of common question types and reporting. We will discuss the pros and cons of common analyses (e.g. linear vs ordinal regression). The material is software agnostic and can be applied in any software.
    * [Surveys 1 v2.11](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.11%2024-5-2023.pdf)
