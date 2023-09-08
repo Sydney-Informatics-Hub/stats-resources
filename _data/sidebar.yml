@@ -25,7 +25,7 @@ folders:
 - title: Sites
   jurl: /minitoc_sites.html
 
-  #folderitems:
+  folderitems:
 
     subfolders:
     - title: Workshops and Workflows
