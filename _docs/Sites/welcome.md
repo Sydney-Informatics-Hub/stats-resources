@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Sydney Informatics Hub: Statistical Resources
 permalink: welcome.html
 sidebar: sidebar
 product: SIH Statistics Resources
