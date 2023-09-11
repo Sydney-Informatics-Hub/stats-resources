@@ -28,8 +28,8 @@ folders:
   folderitems:
 
   - title: Welcome
-    jurl: /workshops_and_workflows.html
-    ref: workshops-and-workflows 
+    jurl: /welcome.html
+    ref: welcome 
     
     subfolders:
     - title: Workshops and Workflows
