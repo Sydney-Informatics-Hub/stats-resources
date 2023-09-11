@@ -1,6 +1,6 @@
 ---
 title: Welcome
-permalink: workshops_and_workflows.html
+permalink: welcome.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
