@@ -22,7 +22,7 @@ folders:
     jurl: /pdf_toc_page.html
     pdf: true
 
-- title: Sites
+- title: Sites (click here to expand menu)
   jurl: /minitoc_sites.html
 
   folderitems:

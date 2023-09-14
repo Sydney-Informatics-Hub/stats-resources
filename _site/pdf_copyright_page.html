@@ -321,23 +321,6 @@
 </div>
 
 
-    <!-- the google_analytics_id gets auto inserted from the config file -->
-
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'G-TNWWV3HK57', 'auto');
-  ga('send', 'pageview');
-</script>
-
-
-
-
     <style>
     #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
     #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
@@ -375,6 +358,28 @@
     }
 
     if(readCookie('cookie-notice-option')=='true') {
+        
+            /*This function will load script and call the callback once the script has loaded*/
+
+function loadScriptAsync(scriptSrc, callback) {
+    if (typeof callback !== 'function') {
+        throw new Error('Not a valid callback for async script load');
+    }
+    var script = document.createElement('script');
+    script.onload = callback;
+    script.src = scriptSrc;
+    document.head.appendChild(script);
+}
+
+/* This is the part where you call the above defined function and "calls back" your code which gets executed after the script has loaded */
+
+loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-TNWWV3HK57', function () {
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-TNWWV3HK57', { 'anonymize_ip': true });
+})
+
         
     } else if (readCookie('cookie-notice-option')!='false'){
         document.getElementById('cookie-notice').style.display = 'block';

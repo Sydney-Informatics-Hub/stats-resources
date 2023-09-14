@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    
+    <title>Specialist Statistics | SIH Statistics Resources</title>
+    
+    <base>
+    <meta name="description" content="This pathway consists of:  Five workshops on specialist statistical techniques including (1) Design and Analysis of Surveys 1; (2) Design and Analysis of Surveys 2; (3) Multivariate Statistical Analysis;... " >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" value="notranslate">
+    <link rel="icon"  type="image/x-icon" href="assets/favicon.ico">
+
+    <!-- FontAwesome (GPL license) -->
+   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- jQuery (MIT license)-->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <!-- jQuery cookie (MIT license)-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+    <!-- Navgoco (BSD license)-->
+    <script type="text/javascript" src="assets/js/jquery.navgoco.min.js"></script>
+    <!-- Bootstrap (MIT license)-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- Anchor JS (MIT license)-->
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/2.0.0/anchor.min.js"></script>
+        <script>
+        $( document ).ready(function() {
+            anchors.add('h2,h3,h4,h5');
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+        </script>
+    
+
+    <script>
+        $( document ).ready(function() {
+            $("#docnavsidebar").navgoco({
+                caretHtml: '',
+                accordion: false,
+                openClass: 'open', // open
+                save: true,
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 300,
+                    easing: 'swing'
+                }
+            });
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#docnavsidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#docnavsidebar").navgoco('toggle', true);
+            });
+        });
+
+    </script>
+
+ <!-- For responsive button to toggle sidebar -->
+    <script>
+        $(document).ready(function() {
+            $('[data-toggle=offcanvas]').click(function() {
+                $('.row-offcanvas').toggleClass('active');
+            });
+        });
+    </script>
+
+    <!-- User defined js -->
+    <script src="assets/js/user_defined_javascript.js"></script>
+    <!--Bootstrap (MIT license) -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <!-- Original theme from Bootstrap Bootswatch fork: http://www.codeply.com/go/rV7KhUjwCN (MIT license) -->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/user_defined_web_styles.css" />
+    <style>
+        ul#markdown-toc::before  {
+        content: "Table of Contents"
+         }
+    </style>
+
+</head>
+<body class="default">
+<div class="page-container">
+
+
+    <!-- Top Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container topnavlinks">
+            <div class="navbar-header">
+              
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="fa fa-bars fa-2x"></span>
+                </button>
+                
+                
+                <button type="button" class="navbar-toggle toggle-sidebar-button"  data-toggle="offcanvas" data-target=".sidebar-nav">
+                    <span class="sidebarToggle fa fa-columns fa-2x"></span>
+                </button>
+                
+
+
+                  
+  <div class="navbar-brand"><a class="noExtIcon" href="index.html"><img class="navbar-logo" src="assets/SIHlogo.png"/></a></div>
+  
+
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-left">
+
+                    <!-- single item nav items appear here -->
+
+                    
+                    
+                    
+                    
+
+                          <!-- drop-down nav items appear here -->
+
+                    
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">SIH Website & Training calendar<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+                            
+                            <li><a href="https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html" class="noExtIcon">SIH Website</a></li>
+                            
+                            
+                            
+                            <li><a href="https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training/training-calendar.html" class="noExtIcon">Training calendar</a></li>
+                            
+                            
+                        </ul>
+                    </li>
+
+                    
+                    
+                    <li><a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:sih.info@sydney.edu.au?subject=SIH resource page feedback&body=I have some feedback about the Specialist Statistics page: ' + window.location.href;"><i class="fa fa-envelope-o topnavfeedback"></i>Feedback</a><li>
+
+                    
+
+                    
+                    <li><a target="_blank" href="/_docs/Sites/Workshops and Workflows/specialist_statistics.md" class="editButton noExtIcon"><i class="fa fa-github fa-lg"></i> Edit on GitHub</a>
+</li>
+                    
+
+
+                </ul>
+                
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+
+                     <div id="search-topnav-container">
+                        <form action="search.html" method="get">
+                          <div class="input-group search">
+                            <input type="text" id="search-box" name="query" class="form-control" placeholder="Search ...">
+                            <div class="input-group-btn">
+                              <button class="btn btn-default" type="submit" value="search">
+                                <i class="glyphicon glyphicon-search"></i>
+                              </button>
+                            </div>
+                          </div>
+                        </form>
+                        </div>
+
+
+                    </li>
+                </ul>
+                
+            </div>
+
+        </div>
+
+
+        <!-- /.container -->
+    </nav>
+
+<div class="container">
+        <div class="row row-offcanvas row-offcanvas-left">
+
+            <!-- sidebar -->
+            <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+
+                
+<div class="mydocsidebar">
+
+
+<div class="sidebar-inner">
+
+
+  
+
+
+<div class="productTitle">SIH Statistical Resources</div>
+<p class="external">
+    <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+</p>
+
+
+
+    <ul id="docnavsidebar" class="docnav">
+    
+    
+        
+    
+    <li class="level1"><a href="#">Sites (click here to expand menu)</a>
+        <ul>
+            
+
+            
+            
+            <li class="level1items"><a href="welcome.html">Welcome</a></li>
+            
+            
+
+            
+
+            <li class="level2"><a class="subfoldersTitle" href="#">Workshops and Workflows</a>
+                <ul style="display:none;">
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="acknowledgement_of_workshops.html">About our Workshops</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="foundational_statistics.html">Foundational Statistics</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="statistical_modelling.html">Statistical Modelling</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items open"><a href="specialist_statistics.html">Specialist Statistics</a></li>
+                    
+                    
+
+                    
+
+                    
+                </ul>
+            </li>
+
+            
+
+            <li class="level2"><a class="subfoldersTitle" href="#">The Statistical Consulting Unit</a>
+                <ul style="display:none;">
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="about_us.html">About Us</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="contact_us.html">Contact Us</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="what_to_expect.html">What to Expect in a Consult</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="staff.html">Staff</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="acknowledgements.html">Acknowledgements</a></li>
+                    
+                    
+
+                    
+
+                    
+                </ul>
+            </li>
+
+            
+
+            <li class="level2"><a class="subfoldersTitle" href="#">References</a>
+                <ul style="display:none;">
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="basic_stat_theory.html">Basic Statistical Theory</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="linear_models.html">Linear Models</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="logistic_regression.html">Logistic Regression</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="meta_analysis.html">Meta Analysis</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="power_analysis.html">Power Analysis</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="research_essentials.html">Research Essentials</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="statistical_inference.html">Statistical Inference</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="statistical_software.html">Statistical Software</a></li>
+                    
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    <li class="level2items"><a href="survival_analysis.html">Survival Analysis</a></li>
+                    
+                    
+
+                    
+
+                    
+                </ul>
+            </li>
+
+            
+
+            
+        </ul>
+
+        
+
+    </li>
+</ul>
+
+<hr class="resourceSeparator"></hr>
+<div class="relatedResources"></div>
+<ul id="entrypages">
+        
+    </li>
+</ul>
+</div>
+</div>
+<script>$("li.open").parents('li').toggleClass("open");</script>
+
+
+            </div>
+
+            <!-- main area -->
+            <div class="col-xs-12 col-sm-9 main">
+
+                    <div class="subtitle">
+                    
+
+
+<a href="https://sydney-informatics-hub.github.io/stats-resources/" class="noExtIcon productSubtitle">Home</a>&nbsp;&nbsp;>&nbsp;&nbsp;Sites&nbsp;&nbsp;>&nbsp;&nbsp;Workshops and Workflows
+    
+
+
+
+
+                      </div>
+
+                      
+
+
+                    <h1>Specialist Statistics</h1>
+
+                
+                    <p>This pathway consists of:</p>
+<ul>
+  <li>Five workshops on specialist statistical techniques including (1) Design and Analysis of Surveys 1; (2) Design and Analysis of Surveys 2; (3) Multivariate Statistical Analysis; (4) Meta-Analysis and (5) Survival Analysis.</li>
+  <li>The material is organised around Statistical Workflows, applicable in any software, giving practical step-by-step instructions on how to do the analysis, including assumption testing, model interpretation, and presentation of results.</li>
+</ul>
+
+<h2 id="design-and-analysis-of-surveys-1">Design and Analysis of Surveys 1</h2>
+<p>In this workshop we present a range of practical tips and guidelines on how to design, field, and analyse the more commonly used surveys. The initial focus is on how to setup and field a study. A variety of different questions and scales, including some unorthodox and novel ones, will be presented to give an appreciation of what is possible. Some of the topics covered will be line vs discrete scales, the effect of colour, optimal discrete/LIKERT scales, etc. Then we will present on basic analysis of common question types and reporting. We will discuss the pros and cons of common analyses (e.g. linear vs ordinal regression). The material is software agnostic and can be applied in any software.</p>
+<ul>
+  <li><a href="https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Surveys%201%20-%20An%20Introduction%20v2.13%20HANDOUTS%2012-9-2023.pdf">Surveys 1 v2.13</a></li>
+</ul>
+
+<h2 id="design-and-analysis-of-surveys-2-advanced-topics">Design and Analysis of Surveys 2: Advanced Topics</h2>
+<p>In this workshop we build on the information from Surveys 1. We explore topics including questionnaire validation and index creation using methods such as Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA) using Structural Equation Modelling (SEM), and Conjoint models such as Choice modelling. The material is software agnostic and can be applied in any software.</p>
+<ul>
+  <li><a href="https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.8%2012-9-2023.pdf">Surveys 2 v1.8</a></li>
+</ul>
+
+<h2 id="multivariate-statistical-analysis-1-dimension-reduction">Multivariate Statistical Analysis 1: Dimension Reduction</h2>
+<p>In multivariate statistics we simultaneously model and estimate variability in more than one variable often in order to examine the relationship between variables. In this workshop we examine the key aspects of moving from univariate to multivariate analysis, and the situations and scenarios where multivariate analysis is typically applied. We will focus on practical application of concepts through examples.</p>
+<ul>
+  <li><a href="assets/files/Multivariate%20Statistical%20Analysis%20v1.9.pdf">Multivariate Statistical Analysis 1: Dimension Reduction v1.9</a></li>
+</ul>
+
+<h2 id="meta-analysis-an-introduction">Meta-Analysis: An Introduction</h2>
+<p>In this workshop we provide a theoretical and practical introduction to meta-analysis as part of a systematic review. We examine the process of performing a meta-analysis, in particular focussing on key statistical concepts such as heterogeneity and fixed and random effects modelling. We will discuss the available choices of statistical software and show you worked examples using the metafor package in R. A basic knowledge of R software is desirable, but not necessary, since you are not expected to produce and run your own code during the workshop.</p>
+<ul>
+  <li><a href="assets/files/Meta-Analysis%20v22.4.pdf">Meta-Analysis - An Introduction v22.4</a></li>
+  <li><a href="assets/files/Meta_Sutton_Smith%2022-06.csv">Example Data File</a></li>
+  <li><a href="assets/files/Meta-Analysis%20workshop%20example%2022-06.R">Example R Script</a></li>
+</ul>
+
+<h2 id="introduction-to-survival-analysis">Introduction to Survival Analysis</h2>
+<p>Survival analysis is used when you want to measure the time elapsed up to when a specified event occurs. It is commonly used in studies where subjects are followed until death occurs, hence the name. In this workshop we will introduce some key concepts pertaining to survival analysis, including censoring of cases, the survival function, and the hazard ratio estimator. The Kaplan Meier survival curve will be explained through a worked example and the technique of Cox proportional hazards regression will be introduced using the same example dataset. You will be provided with software code in SPSS and R to reproduce the analysis presented in the workshop.</p>
+<ul>
+  <li><a href="assets/files/Introduction%20to%20Survival%20Analysis%20v22.12%20HANDOUT.pdf">Introduction to Survival Analysis v22.12.pdf</a></li>
+  <li><a href="assets/files/WHAS500data.csv">WHAS500 csv Data</a></li>
+  <li><a href="assets/files/SurvivalAnalysis_R%20(4).Rmd">Survival R Markdown</a></li>
+  <li><a href="assets/files/SurvivalAnalysis_R%20(2).html">Survival R html</a></li>
+  <li><a href="assets/files/WHAS500_data.sav">Survival SPSS Data</a></li>
+  <li><a href="assets/files/Survival_Workshop_syntax%20(1).sps">Survival SPSS Syntax</a></li>
+</ul>
+
+<!-- left blank intentionally. intended to be overwritten in custom projects. -->
+
+
+                  
+
+                    
+
+
+
+            </div>
+        </div><!--/.container-->
+
+
+    </div><!--/.page-container-->
+    <!-- * Bootsnipp footer: http://bootsnipp.com/snippets/1KEEq (MIT license) -->
+
+<div class="footertop">
+    <div class="container">
+        <div class="col-md-6">
+            <p></p>
+        </div>
+        <div class="col-md-6">
+            <ul class="bottom_ul">
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 col-sm-6 footerleft ">
+
+
+              
+                        <div class="logofooter"> About this Site</div>
+                <p class="footer-description">This site is managed by the Statistical Consulting Unit at the Sydney Informatics Hub. Please get in touch via the feedback button above if you encounter any issues.
+</p>
+
+            </div>
+            <div class="col-md-2 col-sm-6 paddingtop-bottom">
+                <h6 class="heading7"></h6>
+                <ul class="footer-ul">
+                  
+                </ul>
+            </div>
+
+            <div class="col-md-2 col-sm-6 paddingtop-bottom">
+              <h6 class="heading7"></h6>
+              <ul class="footer-ul">
+                
+              </ul>
+            </div>
+
+            <div class="col-md-3 col-sm-6 paddingtop-bottom">
+              <h6 class="heading7"></h6>
+              <ul class="footer-ul">
+                
+              </ul>
+            </div>
+
+
+        </div>
+    </div>
+    </div>
+</footer>
+<!--subfooter start from here -->
+
+<div class="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            <p>© 2023 Sydney Informatics Hub</p>
+        </div>
+    </div>
+</div>
+
+
+    <style>
+    #cookie-notice {padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
+    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }
+</style>
+<div id="cookie-notice"><span>We use cookies to analyse our website traffic and understand where our visitors are coming from. <a href="https://www.sydney.edu.au/privacy-statement.html">Privacy Policy</a></span>
+    <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Accept</a>
+    <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Reject</a>
+</div>
+<script>
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    if(readCookie('cookie-notice-option')=='true') {
+        
+            /*This function will load script and call the callback once the script has loaded*/
+
+function loadScriptAsync(scriptSrc, callback) {
+    if (typeof callback !== 'function') {
+        throw new Error('Not a valid callback for async script load');
+    }
+    var script = document.createElement('script');
+    script.onload = callback;
+    script.src = scriptSrc;
+    document.head.appendChild(script);
+}
+
+/* This is the part where you call the above defined function and "calls back" your code which gets executed after the script has loaded */
+
+loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-TNWWV3HK57', function () {
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-TNWWV3HK57', { 'anonymize_ip': true });
+})
+
+        
+    } else if (readCookie('cookie-notice-option')!='false'){
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+
+    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+        createCookie('cookie-notice-option','true',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+    document.getElementById('cookie-notice-deny').addEventListener("click",function() {
+        createCookie('cookie-notice-option','false',31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+
+</script>
+
+
+</body>
+
+</html>
