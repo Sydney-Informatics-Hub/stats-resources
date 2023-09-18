@@ -5,7 +5,7 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-This pathway consists of:
+This series consists of:
    * Five workshops on specialist statistical techniques including (1) Design and Analysis of Surveys 1; (2) Design and Analysis of Surveys 2; (3) Multivariate Statistical Analysis; (4) Meta-Analysis and (5) Survival Analysis.
    * The material is organised around Statistical Workflows, applicable in any software, giving practical step-by-step instructions on how to do the analysis, including assumption testing, model interpretation, and presentation of results.
 
