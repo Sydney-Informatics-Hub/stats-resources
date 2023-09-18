@@ -7,17 +7,42 @@ product: SIH Statistics Resources
 
 Statistical Consulting within the Sydney Informatics Hub offers a modular training programme made up of 1.5 hour workshops, each focusing on a single statistical method. Statistical Workflows giving practical step-by-step instructions applicable in any software are used and include experimental design, exploratory analysis, modelling, assumption testing, model interpretation and presentation of results. They are integrated into Training Pathways to give a holistic understanding of data analysis from a statistical perspective. You are encouraged to design a custom programme by mixing and matching workshops from different training pathways tailored to your research needs. Our workshops are as follows:
 
-&nbsp;<br>
-
-| Fundamentals  | Modelling | Specialist |
-| ------------- | ------------- | ------------ |
-| Research Essentials  | Linear Regression, ANOVA, ANCOVA, & Repeated Measures​  | Surveys 1: Best Practice​ |
-| Experimental Design  | Logistic & Poisson Regression  | Surveys 2: Advanced Topics |
-| Power & Sample Size Calculation  | Advanced Topics & Tricks  | Multivariate Statistics & Dimensionality Reduction |
-|   |  Statistical Model Building Strategies | Meta-Analysis​ |
-|   |   | Survival Analysis |
-
-&nbsp;<br>
+<table>
+  <thead>
+    <tr>
+      <th>Fundamentals</th>
+      <th>Modelling</th>
+      <th>Specialist</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Research Essentials</td>
+      <td>Linear Regression, ANOVA, ANCOVA, & Repeated Measures</td>
+      <td>Surveys 1: Best Practice</td>
+    </tr>
+    <tr>
+      <td>Experimental Design</td>
+      <td>Logistic & Poisson Regression</td>
+      <td>Surveys 2: Advanced Topics</td>
+    </tr>
+    <tr>
+      <td>Power & Sample Size Calculation</td>
+      <td>Advanced Topics & Tricks</td>
+      <td>Multivariate Statistics & Dimensionality Reduction</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Statistical Model Building Strategies</td>
+      <td>Meta-Analysis</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Survival Analysis</td>
+    </tr>
+  </tbody>
+</table>
 
 We continue to develop and improve our workshop offering through feedback and the needs we identify in our statistical consulting service. The workshop slides will be periodically updated, so we encourage you to regularly come back and download the most recent versions. The version number is shown next to the slides for download.
 
