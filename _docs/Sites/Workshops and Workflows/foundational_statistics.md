@@ -17,7 +17,7 @@ In this workshop we will give you a systematic workflow to apply to any research
 
 ## Experimental Design 
 In this workshop we focus on the key aspects of experimental design that researchers and students may need to apply in their research. Higher degree research students and researchers engaging in new research are especially invited to attend. During the workshop there will be the opportunity to discuss your own research question and associated experimental design. The workshop will include the topics of (1) your research question, (2) experimental validity, (3) randomisation and bias, (4) blinding and bias, (5) blocking and confounding, (6) fixed and random effects, (7) replication and experimental units. No pre-requisite knowledge of statistical methods is required.
-  * [Experimental Design v1.4](assets/files/Experimental%20Design%20v%202.1.pdf)
+  * [Experimental Design v2.1](assets/files/Experimental%20Design%20v%202.1.pdf)
 
 ## Power and Sample Size 
 In this workshop we will show you how power and sample size calculations will help you to determine the number of necessary subjects to include in your study, for completion of ethics and grant requirements, and ensure that you have thoroughly thought about your study design. This workshop covers the theory and concepts of power analysis and includes worked examples using G\*Power software. You will follow the examples on your own laptop PC or Mac. It is essential you have G\*Power pre-installed on your machine prior to the workshop. Download software from the G*Power website [here](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html). It is free, and available for both Windows and MacOS.
