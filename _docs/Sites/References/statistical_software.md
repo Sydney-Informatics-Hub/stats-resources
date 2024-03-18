@@ -10,9 +10,9 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 ## R and RStudio
 
-**[Learning the R Tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse/)**
+**[Complete Guide to R: Wrangling, Visualizing, and Modeling Data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/)**
 
-*Kathrin says: This LinkedIn Learning course is a great introductory resource to learn R software coding for statistical analysis. The "tidyverse" is a collection of some of the most versatile R packages for cleaning, processing, modelling, and visualising your data. The course is free with a University of Sydney login.*
+*Alex says: A wonderful comprehensive and up-to-date introduction to using R, with our SIH-SC recommended approach using RStudio and tidyverse packages. The course is free with a University of Sydney login. Tip: if you have a personal Linked-in account make sure you log out and then log in using your University of Sydney email address to get free access to the course.*
 
 **[R Ladies Sydney: RYouWithMe?](https://rladiessydney.org/courses/ryouwithme/)**
 
