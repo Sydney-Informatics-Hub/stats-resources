@@ -5,7 +5,7 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-**Systematic Review, USYD library** [**@USyd library**](https://www.library.sydney.edu.au/research/systematic-review/?section=overview)
+**Systematic Review, USYD library** [**@USyd library**](https://www.library.sydney.edu.au/support/searching/systematic-reviews)
 
 *Stani says: A great resource by our very own library to get started with systematic reviews.*
 
