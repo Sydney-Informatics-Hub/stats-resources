@@ -21,7 +21,7 @@ In this workshop we focus on the key aspects of experimental design that researc
 
 ## Power and Sample Size 
 In this workshop we will show you how power and sample size calculations will help you to determine the number of necessary subjects to include in your study, for completion of ethics and grant requirements, and ensure that you have thoroughly thought about your study design. This workshop covers the theory and concepts of power analysis and includes worked examples using G\*Power software. You will follow the examples on your own laptop PC or Mac. It is essential you have G\*Power pre-installed on your machine prior to the workshop. Download software from the G*Power website [here](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html). It is free, and available for both Windows and MacOS.
-  * [Power and Sample Size v22.2](assets/files/Power%20and%20sample%20size%20v22.2.pdf) 
+  * [Power and Sample Size v22.4](assets/files/Power%20and%20sample%20size%20v22.4%20handout.pdf) 
   * [Power Simulation RMarkdown](assets/files/Example1-simulation.Rmd) 
   * [Power Simulation html](assets/files/Example1-simulation.html)
   * [Power and Sample Size - SPSS Workflow v1](assets/files/Power%and%sample%size%-%SPSS%v1.pdf)
