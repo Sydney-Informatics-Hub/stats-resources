@@ -21,6 +21,12 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 ## SPSS
 
+**How to download SPSS**
+
+[Technology - SPSS Statistics and SPSS AMOS (service-now.com)](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0011586)
+
+*Chris says: Follow this link on information on how to download SPSS at Sydney Uni. UniKey required.*
+
 **[SPSS Statistics Essential Training](https://www.linkedin.com/learning/spss-statistics-essential-training-2)**
 
 *Jim says: This LinkedIn Learning course is an ideal way to introduce yourself to the SPSS environment and learn everything from the basics of data manipulation and visualisation right through to linear and logistic regression. Having access to exercise files, speaker transcripts and captions, Q&A and your own notebook make it really accessible and user friendly. You’ll be browsing the other content on LinkedIn Learning after you have finished this one.  The course is free with a University of Sydney login.*
