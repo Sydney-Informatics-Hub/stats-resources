@@ -24,8 +24,8 @@ In this workshop we will show you how power and sample size calculations will he
   * [Power and Sample Size v22.4](assets/files/Power%20and%20sample%20size%20v22.4%20handout.pdf) 
   * [Power Simulation RMarkdown](assets/files/Example1-simulation.Rmd) 
   * [Power Simulation html](assets/files/Example1-simulation.html)
-  * [Power and Sample Size SPSS Workflow v1](assets/files/Power and sample size SPSS v1.pdf)
-  * [Power and Sample Size SPSS Syntax v1](assets/files/Power and sample size SPSS syntax v1.sps)
+  * [Power and Sample Size SPSS Workflow v1](assets/files/Power_and_sample_size_SPSS_syntax_v1.sps)
+  * [Power and Sample Size SPSS Syntax v1](assets/files/Power_and_sample_size_SPSS_syntax_v1.sps)
 
 
 {% include links.html %}
