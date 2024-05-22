@@ -2,6 +2,10 @@
 
 This is the repo for our `stats-resources` page. Make changes here and they automatically appear on the website.
 
+## About this page
+
+This is setup as a public facing GitHub so people external to SIH and the uni can see the webpage. However this also means that people can see the underlying repo. So we just need to be aware that people can read anything on here, even things not on the webpage such as the README. However they cannot edit it. Note that Sydney Uni has an internal GitHub, which is only viewable for people with a UniKey. And you can make your stuff private on there, so that no one can see it. But then external people can’t see the webpage.
+
 ### Changing the content of a webpage
 
 All individual pages are stored as `.md` Markdown files, found in the `_docs` folder. The folders represent the structure in the sidebar. At the time of this writing, there was only one folder, named `Sites`, which hosts all pages and another subfolder
