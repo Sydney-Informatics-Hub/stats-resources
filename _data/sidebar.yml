@@ -48,15 +48,6 @@ folders:
         jurl: /statistical_modelling.html
         ref: statistical-modelling
 
-      subfolders:
-      - title: Online Workflows
-        output: web
-        subfolderitems:
-
-       - title: Linear Models I
-          jurl: /lmI_workflow.html
-          ref: lmI-workflow
-
       - title: Specialist Statistics
         jurl: /specialist_statistics.html
         ref: specialist-statistics
