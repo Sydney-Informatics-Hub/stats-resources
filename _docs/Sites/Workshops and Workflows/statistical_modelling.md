@@ -15,6 +15,8 @@ This pathway consists of:
 ## Linear Models 1: Linear Regression, ANOVA, ANCOVA and Repeated Measures (a Simple Mixed Model) 
 In this workshop we focus on practical data analysis by presenting statistical workflows applicable in any software for four of the most common univariate analyses: linear regression, ANOVA, ANCOVA, and repeated measures (a simple mixed model) – all assuming a normal (gaussian) residual. These workflows can be easily extended to more complex models. The R code used to create output is also included. 
   * [Linear Models 1 v1.31](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.31%2022-5-2024.pdf)
+  * Linear Models 1 Workflows:
+    * [Interactively browsable HTML version]()
                             
 
 ## Linear Models 2: Logistic and Poisson/Count Regression - An Introduction to Generalised Linear Models 
