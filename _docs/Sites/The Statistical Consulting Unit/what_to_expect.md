@@ -38,19 +38,9 @@ Find out how to [contact us](contact_us) to request a consult.
 
 ## Where To Go For An In-person Consult
 
-For an in-person consult, please be at the Sydney Knowledge Hub (SKH) reception in the Merewether building (H04) five minutes prior to the consult start. The SKH reception is on the City Rd and Butlin Avenue corner of the building, on level 2. You can access the SKH reception via City Road or Butlin Ave. The SKH reception is wheelchair accessible via the ramp on City Rd, or via the lift next to the Butlin Ave first level entrance. You can use the [Sydney Uni app](https://www.sydney.edu.au/students/student-it/apps.html#suapp) to get directions from anywhere on campus, navigate to Merewether room 230 (room ID for reception).
+For an in-person consult, please come to Moore College, 1 King St Newtown.
 
-<img src="assets/skh_reception.jpg" width="400" alt="Sydney Knowledge Hub reception">
-
-*Sydney Knowledge Hub Reception*
-
-<img src="assets/from_city_rd.jpg" alt="Stairs to Sydney Knowledge Hub reception from City Rd" width="400">
-
-*Stairs and ramp to Sydney Knowledge Hub Reception (level 2) from City Rd*
-
-<img src="assets/from_butlin_ave.jpg" width="400" alt="Stairs to Sydney Knowledge Hub reception from Butlin Ave">
-
-*Entry to level 1 and stairs to Sydney Knowledge Hub Reception (level 2) from Butlin Ave*
+We have just moved (3rd of June 2024) and settling in to our new offices. This page will soon be updated with directions on where to meet us for an in-person consult.
 
 ## See You In The Consult!
 
