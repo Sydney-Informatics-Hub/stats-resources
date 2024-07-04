@@ -42,6 +42,10 @@ We welcome in-person consults whenever possible. We can come to your office on t
 
 Moore College is located at 1 King St Newtown (corner of Carillion Ave). Enter the building via the doors on Carillion Ave or King St. Proceed to the lifts and select level 5. Turn left out of the lifts to see the waiting area with seats. We will meet you at the time of the scheduled consult.
 
+<img src="assets/moore_carillion_rd_entrance.jpeg" width="600" alt="Carillion Ave entrance to Moore College">
+
+*Carillion Avenue entrance to Moore College*
+
 <img src="assets/moore_level5_lifts.jpeg" width="600" alt="Lifts on level 5 of Moore College">
 
 *Level 5, Moore College view from the lifts*
