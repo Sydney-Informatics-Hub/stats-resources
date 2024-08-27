@@ -23,7 +23,6 @@ In this workshop we focus on practical data analysis by presenting statistical w
 ## Linear Models 2: Logistic and Poisson/Count Regression - An Introduction to Generalised Linear Models 
 ​In this workshop we focus on practical data analysis applicable in any software for two of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. The R code used to create output is also included. ​
   * [Linear Models 2 v2.20](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.20%2026-8-2024.pdf)
-  * 
   * Linear Models 2 R Workflows (with reproducible code):
     * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/LMII_workflow.html)
     * [PDF version](assets/files/LMII_workflow.pdf)
