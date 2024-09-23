@@ -18,6 +18,16 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 *Ali says: This R Ladies Sydney course is a great way to learn the basics of R and tidyverse. It actually helped me learn how to use the tidyverse during my Postdoc in Biostats. It walks you through a range of R packages and functions for data cleaning, visualisation, and presentation, by providing you with easy-to-follow videos, lesson outcomes and tasks, and step-by-step instructions for carrying out these tasks with a sample dataset.*
 
+**[Making tables in R with table1](https://blog.djnavarro.net/posts/2024-06-21_table1/)**
+
+**[Using the table1 Package to Create HTML Tables of Descriptive Statistics](https://cran.r-project.org/web/packages/table1/vignettes/table1-examples.html)**
+
+*Ali says: The table1 package is designed to produce publication-ready numerical summary statistics tables that are typically reported as Table 1 of a manuscript. The first link will show you how to get started with the package, as well as customise your tables for your journal and formatting requirements. For further examples of how to use the table1 package, see the second link above.*
+
+**[Missing data using the finalfit package](https://cran.r-project.org/web/packages/finalfit/vignettes/missing.html)**
+
+*Ali says: The final fit pacakge is great for exploring missing data in your dataset by (1) producing plots to explore patterns of missingness, (2) incorporating missing data into your demographic tables and (3) checking for patterns between your missing and observed data.* 
+
 
 ## SPSS
 
