@@ -11,8 +11,8 @@ product: SIH Statistics Resources
 
 ## Design and Analysis of Surveys 1 
 In this workshop we present a range of practical tips and guidelines on how to design, field, and analyse the more commonly used surveys. The initial focus is on how to setup and field a study. A variety of different questions and scales, including some unorthodox and novel ones, will be presented to give an appreciation of what is possible. Some of the topics covered will be line vs discrete scales, the effect of colour, optimal discrete/LIKERT scales, etc. Then we will present on basic analysis of common question types and reporting. We will discuss the pros and cons of common analyses (e.g. linear vs ordinal regression). The material is software agnostic and can be applied in any software.
-   * [Surveys 1 v2.18](assets/files/Surveys%201%20-%20An%20Introduction%20v2.18%20HANDOUTS%205-6-2024.pdf)
-
+   * [Surveys 1 v2.19](assets/files/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.19%2024-9-2024.pdf)
+     
 ## Design and Analysis of Surveys 2: Advanced Topics 
 In this workshop we build on the information from Surveys 1. We explore topics including questionnaire validation and index creation using methods such as Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA) using Structural Equation Modelling (SEM), and Conjoint models such as Choice modelling. The material is software agnostic and can be applied in any software.
    * [Surveys 2 v1.10](assets/files/Surveys%202%20-%20Advanced%20Topics%20v1.10%20HANDOUTS%205-6-2024.pdf)
