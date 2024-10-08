@@ -40,19 +40,17 @@ Find out how to [contact us](contact_us) to request a consult.
 
 We welcome in-person consults whenever possible. We can come to your office on the Camperdown campus by arrangement or you can visit our offices in Moore College.
 
-Moore College is located at 1 King St Newtown (corner of Carillon Ave). Enter the building via the doors on Carillon Ave or King St. Proceed to the lifts and select level 5. Turn left out of the lifts to see the waiting area with seats. We will meet you at the time of the scheduled consult.
+Moore College is located at 1 King St Newtown (corner of Carillon Ave). Enter the building via the doors on Carillon Ave or King St. Proceed to the lifts and select level 5. Exit the lifts on level 5. We will meet you at the lifts at the time of the scheduled consult.
 
 <img src="assets/carillion_avenue_entrance_moore_college.jpeg" width="600" alt="Carillon Ave entrance to Moore College">
 
 *Carillon Avenue entrance to Moore College*
 
-<img src="assets/moore_level5_lifts.jpeg" width="600" alt="Lifts on level 5 of Moore College">
+<img src="assets/moore_level5_lifts_v2.jpeg" width="600" alt="Lifts on level 5 of Moore College">
 
 *Level 5, Moore College view from the lifts*
 
-<img src="assets/moore_level5_seating.jpeg" width="600" alt="Seating area on level 5 of Moore College">
 
-*Level 5, Moore College seating area to wait prior to your consult*
 
 ## See You In The Consult!
 
