@@ -23,7 +23,7 @@ In multivariate statistics we simultaneously model and estimate variability in m
 
 ## Meta-Analysis: An Introduction 
 In this workshop we provide a theoretical and practical introduction to meta-analysis as part of a systematic review. We examine the process of performing a meta-analysis, in particular focussing on key statistical concepts such as heterogeneity and fixed and random effects modelling. We will discuss the available choices of statistical software and show you worked examples using the metafor package in R. A basic knowledge of R software is desirable, but not necessary, since you are not expected to produce and run your own code during the workshop.
-   * [Meta-Analysis - An Introduction v22.4](assets/files/Meta-Analysis%20v22.4.pdf)
+   * [Meta-Analysis - An Introduction v22.6](assets/files/Meta-Analysis%20v22.6.pdf)
    * [Example Data File](assets/files/Meta_Sutton_Smith%2022-06.csv) 
    * [Example R Script](assets/files/Meta-Analysis%20workshop%20example%2022-06.R)
 
