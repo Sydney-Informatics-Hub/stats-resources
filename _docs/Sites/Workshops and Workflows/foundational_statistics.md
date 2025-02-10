@@ -25,6 +25,7 @@ In this workshop we will show you how power and sample size calculations will he
   * [Power and Sample Size Online Power Calculators Software Workflow v1](assets/files/Power%20and%20sample%20size%20-%20Online%20Calculators%20v1.pdf)
   * [Power Simulation RMarkdown](assets/files/Example1-simulation.Rmd) 
   * [Power Simulation html](assets/files/Example1-simulation.html)
+  * [Power and Sample Size G*Power Software Workflow v0.9](assets/files/Power%20and%20sample%20size%20-%20GPower%20v0.9.pdf)
   * [Power and Sample Size SPSS Software Workflow v1](assets/files/Power_and_sample_size_SPSS_v1.pdf)
   * [Power and Sample Size SPSS Software Workflow Syntax v1](assets/files/Power_and_sample_size_SPSS_syntax_v1.sps)
 
