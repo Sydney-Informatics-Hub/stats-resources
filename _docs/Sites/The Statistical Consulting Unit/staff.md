@@ -9,13 +9,12 @@ product: SIH Statistics Resources
 
 ![The Statistical Consulting Unit](assets/stats_team_2023_1.png)
 
-*From left, Kathrin, Alex, Chris, Stani, Jim and Alexandra*
+*Our team in 2023, from left, Kathrin, Alex, Chris, Stani, Jim and Alexandra*
 
 ## Our Current Staff
 
 * Chris Howden, Team Lead
 * Dr. Kathrin Schemann, Senior Statistical Consultant
-* Jim Matthews, Statistical Consultant
 * Dr. Alex Shaw, Statistical Consultant
 * Dr. Alexandra Green, Statistical Consultant
 * Omar Arnaiz, Statistical Consultant
