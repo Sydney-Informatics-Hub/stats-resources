@@ -1,5 +1,5 @@
 ---
-title: References
+title: Helpful Links
 permalink: references.html
 sidebar: sidebar
 product: SIH Statistics Resources
