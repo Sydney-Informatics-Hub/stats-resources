@@ -15,7 +15,7 @@ In this workshop we present a range of practical tips and guidelines on how to d
      
 ## Design and Analysis of Surveys 2: Advanced Topics 
 In this workshop we build on the information from Surveys 1. We explore topics including questionnaire validation and index creation using methods such as Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA) using Structural Equation Modelling (SEM), and Conjoint models such as Choice modelling. The material is software agnostic and can be applied in any software.
-   * [Surveys 2 v1.10](assets/files/Surveys%202%20-%20Advanced%20Topics%20v1.10%20HANDOUTS%205-6-2024.pdf)
+   * [Surveys 2 v1.12](assets/files/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.12%201-4-2025.pdf)
 
 ## Multivariate Statistical Analysis 1: Dimension Reduction 
 In multivariate statistics we simultaneously model and estimate variability in more than one variable often in order to examine the relationship between variables. In this workshop we examine the key aspects of moving from univariate to multivariate analysis, and the situations and scenarios where multivariate analysis is typically applied. We will focus on practical application of concepts through examples.
