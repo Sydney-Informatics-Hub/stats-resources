@@ -19,7 +19,7 @@ In this workshop we build on the information from Surveys 1. We explore topics i
 
 ## Multivariate Statistical Analysis 1: Dimension Reduction 
 In multivariate statistics we simultaneously model and estimate variability in more than one variable often in order to examine the relationship between variables. In this workshop we examine the key aspects of moving from univariate to multivariate analysis, and the situations and scenarios where multivariate analysis is typically applied. We will focus on practical application of concepts through examples.
-   * [Multivariate Statistical Analysis 1: Dimension Reduction v2.3](assets/files/Multivariate%20Statistical%20Analysis%20-%20Dimension%20Reduction%20v2.3.pdf)
+   * [Multivariate Statistical Analysis 1: Dimension Reduction v2.3](assets/files/Multivariate%20Statistical%20Analysis%20v2.3.pdf)
    * Multivariate Statistical Analysis 1: Dimension Reduction R Workflows (with reproducible code):
      * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/multivariate_dimension_reduction_workflow.html)
 
