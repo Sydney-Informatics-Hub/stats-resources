@@ -14,7 +14,7 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 *Alex says: A wonderful comprehensive and up-to-date introduction to using R, with our SIH-SC recommended approach using RStudio and tidyverse packages. The course is free with a University of Sydney login. Tip: if you have a personal Linked-in account make sure you log out and then log in using your University of Sydney email address to get free access to the course.*
 
-**[R Ladies Sydney: RYouWithMe?](https://rladiessydney.org/courses/ryouwithme/)**
+**[R Ladies Sydney: RYouWithMe?](https://rladiessydney.org/courses/)**
 
 *Ali says: This R Ladies Sydney course is a great way to learn the basics of R and tidyverse. It actually helped me learn how to use the tidyverse during my Postdoc in Biostats. It walks you through a range of R packages and functions for data cleaning, visualisation, and presentation, by providing you with easy-to-follow videos, lesson outcomes and tasks, and step-by-step instructions for carrying out these tasks with a sample dataset.*
 
