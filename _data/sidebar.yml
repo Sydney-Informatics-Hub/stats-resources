@@ -52,6 +52,10 @@ folders:
         ref: foundational-statistics-research-essentials
         jurl: /foundational_statistics.html#power-and-sample-size
 
+      - title: Statistical Modelling
+        jurl: /statistical_modelling.html
+        ref: statistical-modelling
+
       - title: Linear Models 1
         jurl: /statistical_modelling.html#linear-models-1-linear-regression-anova-ancova-and-repeated-measures-a-simple-mixed-model
         ref: statistical-modelling-linear-models-1-linear-regression-anova-ancova-and-repeated-measures-a-simple-mixed-model
@@ -68,6 +72,10 @@ folders:
         jurl: /statistical_modelling.html#statistical-model-building
         ref: statistical-modelling-statistical-model-building
         
+      - title: Multivariate: Dimension Reduction
+        jurl: /specialist_statistics.html#multivariate-statistical-analysis-1-dimension-reduction
+        ref: specialist-statistics-multivariate-statistical-analysis-1-dimension-reduction
+        
       - title: Design and Analysis of Surveys 1
         jurl: /specialist_statistics.html#design-and-analysis-of-surveys-1
         ref: specialist-statistics-design-and-analysis-of-surveys-1
@@ -75,10 +83,6 @@ folders:
       - title: Design and Analysis of Surveys 2
         jurl: /specialist_statistics.html#design-and-analysis-of-surveys-2-advanced-topics
         ref: specialist-statistics-design-and-analysis-of-surveys-2-advanced-topics
-
-      - title: Multivariate: Dimension Reduction
-        jurl: /specialist_statistics.html#multivariate-statistical-analysis-1-dimension-reduction
-        ref: specialist-statistics-multivariate-statistical-analysis-1-dimension-reduction
     
       - title: Meta-Analysis
         jurl: /specialist_statistics.html#meta-analysis-an-introduction
