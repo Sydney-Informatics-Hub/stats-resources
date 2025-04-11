@@ -39,18 +39,23 @@ folders:
       - title: About our Workshops
         jurl: /acknowledgement_of_workshops.html
         ref: acknowledgement-of-workshops
-
-      - title: Research Essentials
-        ref: foundational-statistics-research-essentials
-        jurl: /foundational_statistics.html#research-essentials
-
-      - title: Experimental Design
-        ref: foundational-statistics-experimental-design
-        jurl: /foundational_statistics.html#experimental-design
         
-      - title: Power and Sample Size
-        ref: foundational-statistics-research-essentials
-        jurl: /foundational_statistics.html#power-and-sample-size
+      subfolders:
+      - title: Foundational Statistics
+        output: web
+        subfolderitems:
+
+        - title: Research Essentials
+            ref: foundational-statistics-research-essentials
+            jurl: /foundational_statistics.html#research-essentials
+
+        - title: Experimental Design
+            ref: foundational-statistics-experimental-design
+            jurl: /foundational_statistics.html#experimental-design
+        
+        - title: Power and Sample Size
+            ref: foundational-statistics-research-essentials
+            jurl: /foundational_statistics.html#power-and-sample-size
 
       - title: Linear Models 1
         jurl: /statistical_modelling.html#linear-models-1-linear-regression-anova-ancova-and-repeated-measures-a-simple-mixed-model
