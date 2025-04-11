@@ -41,8 +41,16 @@ folders:
         ref: acknowledgement-of-workshops
       
       - title: Foundational Statistics
-        jurl: /foundational_statistics.html
         ref: foundational-statistics
+        jurl: /foundational_statistics.html
+
+      - title: Research Essentials
+        ref: foundational-statistics-research-essentials
+        jurl: /foundational_statistics.html#research-essentials
+
+      - title: Experimental Design
+        ref: foundational-statistics-experimental-design
+        jurl: /foundational_statistics.html#experimental-design
 
       - title: Statistical Modelling
         jurl: /statistical_modelling.html
