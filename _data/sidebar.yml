@@ -75,6 +75,10 @@ folders:
       - title: Design and Analysis of Surveys 2
         jurl: /specialist_statistics.html#design-and-analysis-of-surveys-2-advanced-topics
         ref: specialist-statistics-design-and-analysis-of-surveys-2-advanced-topics
+
+      - title: Multivariate: Dimension Reduction
+        jurl: /specialist_statistics.html#multivariate-statistical-analysis-1-dimension-reduction
+        ref: specialist-statistics-dimension-reduction
     
       - title: Meta-Analysis
         jurl: /specialist_statistics.html#meta-analysis-an-introduction
