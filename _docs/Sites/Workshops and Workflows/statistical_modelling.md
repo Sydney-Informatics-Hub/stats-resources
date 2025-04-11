@@ -14,7 +14,7 @@ This pathway consists of:
 
 ## Linear Models 1: Linear Regression, ANOVA, ANCOVA and Repeated Measures (a Simple Mixed Model) 
 In this workshop we focus on practical data analysis by presenting statistical workflows applicable in any software for four of the most common univariate analyses: linear regression, ANOVA, ANCOVA, and repeated measures (a simple mixed model) – all assuming a normal (gaussian) residual. These workflows can be easily extended to more complex models. There is also an accompanying software workflow for R.​ 
-  * [Linear Models 1 v1.31](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.31%2022-5-2024.pdf)
+  * [Linear Models 1 v1.33](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.33%2019-3-2025.pdf)
   * Linear Models 1 R Workflows (with reproducible code):
     * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/linear_modelsI_workflow.html)
     * [PDF version](assets/files/linear_modelsI_workflow.pdf)
@@ -22,7 +22,7 @@ In this workshop we focus on practical data analysis by presenting statistical w
 
 ## Linear Models 2: Logistic and Poisson/Count Regression - An Introduction to Generalised Linear Models 
 ​In this workshop we focus on practical data analysis applicable in any software for two of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. There is also an accompanying software workflow for R.​
-  * [Linear Models 2 v2.24](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20%20v2.24%2018-9-2024.pdf)
+  * [Linear Models 2 v2.25](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.25%2019-3-2025.pdf)
   * Linear Models 2 R Workflows (with reproducible code):
     * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/LMII_workflow.html)
     * [PDF version](assets/files/LMII_workflow.pdf)
@@ -39,8 +39,6 @@ Statistical analysis is more than just building the best predictive model, it sh
 
 ## Statistical Model Building 
 In this workshop we will introduce you to the key aspects and strategies of statistical model building to help you answer your research question, and avoid common pitfalls, erroneous models and incorrect conclusions. Appropriate statistical model building will help you to gain knowledge, as opposed to simply getting the best prediction (although that can be a goal as well). We will focus on concepts such as variable selection, multi-collinearity, interactions, selecting a model building strategy, comparing models and evaluating models. In general, these concepts are useful for any statistical model building. This workshop will provide generalised linear regression model examples. The focus will be on practical application of concepts, so mathematical descriptions will be kept to a minimum.
-  * [Statistical Model Building v1.5](assets/files/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf)
+  * [Statistical Model Building v1.7](assets/files/Model%20Building%20v1.7%2019-03-2025%20delivered.pdf)
 
 
-
-{% include links.html %}
