@@ -22,7 +22,7 @@ In this workshop we focus on the key aspects of experimental design that researc
 ## Power and Sample Size 
 In this workshop we will show you how power and sample size calculations will help you to determine the number of necessary subjects to include in your study, for completion of ethics and grant requirements, and ensure that you have thoroughly thought about your study design. This workshop covers the theory and concepts of power analysis and includes worked example.
   * [Power and Sample Size v23](assets/files/Power%20and%20sample%20size%20v23.pdf)
-  * [Power and Sample Size Online Power Calculators Software Workflow v1](assets/files/Power%20and%20sample%20size%20-%20Online%20Calculators%20v1.pdf)
+  * [Power and Sample Size Online Power Calculators Software Workflow v1.1](assets/files/Power%20and%20sample%20size%20-%20Online%20Calculators%20v1.1.pdf)
   * [Power Simulation RMarkdown](assets/files/Example1-simulation.Rmd) 
   * [Power Simulation html](assets/files/Example1-simulation.html)
   * [Power and Sample Size G*Power Software Workflow v0.9](assets/files/Power%20and%20sample%20size%20-%20GPower%20v0.9.pdf)
