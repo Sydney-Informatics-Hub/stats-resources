@@ -19,9 +19,14 @@ In this workshop we build on the information from Surveys 1. We explore topics i
 
 ## Multivariate Statistical Analysis 1: Dimension Reduction 
 In multivariate statistics we simultaneously model and estimate variability in more than one variable often in order to examine the relationship between variables. In this workshop we examine the key aspects of moving from univariate to multivariate analysis, and the situations and scenarios where multivariate analysis is typically applied. We will focus on practical application of concepts through examples.
-   * [Multivariate Statistical Analysis 1: Dimension Reduction v2.3](assets/files/Multivariate%20Statistical%20Analysis%20v2.3.pdf)
-   * Multivariate Statistical Analysis 1: Dimension Reduction R Workflows (with reproducible code):
+   * [Multivariate Statistical Analysis 1: Dimension Reduction v2.4](assets/files/Multivariate%20Statistical%20Analysis%20v2.4.pdf)
+   * Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow (with reproducible code):
      * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/multivariate_dimension_reduction_workflow.html)
+	* Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow file:
+		* (data_CA_NobelPrize_withMaths.csv)[https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/data_CA_NobelPrize_withMaths.csv]
+		* (macnally_full_site.csv)[https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/macnally_full_site.csv]
+	* Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow additional [pdf](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Multivariate%20Statistical%20Analysis%20Software%20Workflow%20Additional%20Material.pdf)
+	
 
 ## Meta-Analysis: An Introduction 
 In this workshop we provide a theoretical and practical introduction to meta-analysis as part of a systematic review. We examine the process of performing a meta-analysis, in particular focussing on key statistical concepts such as heterogeneity and fixed and random effects modelling. We will discuss the available choices of statistical software and show you worked examples using the metafor package in R. A basic knowledge of R software is desirable, but not necessary, since you are not expected to produce and run your own code during the workshop.
