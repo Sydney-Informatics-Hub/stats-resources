@@ -23,8 +23,9 @@ In multivariate statistics we simultaneously model and estimate variability in m
    * Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow (with reproducible code):
      * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/multivariate_dimension_reduction_workflow.html)
 
-   *[R Software workflow file: data_CA_NobelPrize_withMaths.csv](assets/files/data_CA_NobelPrize_withMaths.csv)
-   *[R Software workflow file: macnally_full_site.csv](assets/files/macnally_full_site.csv)
+   [R Software workflow file: data_CA_NobelPrize_withMaths.csv](assets/files/data_CA_NobelPrize_withMaths.csv)
+   [R Software workflow file: macnally_full_site.csv](assets/files/macnally_full_site.csv)
+   
    * Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow additional material [pdf](assets/files/Multivariate%20Statistical%20Analysis%20Software%20Workflow%20Additional%20Material.pdf)
 	
 
