@@ -22,10 +22,10 @@ In multivariate statistics we simultaneously model and estimate variability in m
    * [Multivariate Statistical Analysis 1: Dimension Reduction v2.4](assets/files/Multivariate%20Statistical%20Analysis%20v2.4.pdf)
    * Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow (with reproducible code):
      * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/multivariate_dimension_reduction_workflow.html)
-	* Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow files:
-		* [data_CA_NobelPrize_withMaths.csv](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/data_CA_NobelPrize_withMaths.csv)
-		* [macnally_full_site.csv](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/macnally_full_site.csv)
-	* Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow additional material [pdf](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Multivariate%20Statistical%20Analysis%20Software%20Workflow%20Additional%20Material.pdf)
+* Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow files:
+		* [data_CA_NobelPrize_withMaths.csv](https://github.com/Sydney-Informatics-Hub/stats-resources/assets/files/data_CA_NobelPrize_withMaths.csv)
+		* [macnally_full_site.csv](https://github.com/Sydney-Informatics-Hub/stats-resources/assets/files/macnally_full_site.csv)
+	* Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow additional material [pdf](https://github.com/Sydney-Informatics-Hub/stats-resources/assets/files/Multivariate%20Statistical%20Analysis%20Software%20Workflow%20Additional%20Material.pdf)
 	
 
 ## Meta-Analysis: An Introduction 
