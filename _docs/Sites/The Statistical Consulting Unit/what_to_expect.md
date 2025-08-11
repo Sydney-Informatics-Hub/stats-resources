@@ -48,11 +48,11 @@ Moore College is located at 1 King St Newtown (corner of Carillon Ave). Enter th
 
 <img src="assets/moore_level5_lifts_v2.jpg" width="600" alt="Lifts on level 5 of Moore College">
 
-*Level 5, Moore College view of reception desk from the lifts*
+*Level 5, Moore College view of reception desk from the lifts area*
 
-<img src="assets/moore_college_waiting_room.jpeg" width="600" alt="Waiting room on level 5 of Moore College">
+<img src="assets/moore_level5_waiting_room.jpeg" width="600" alt="Waiting room on level 5 of Moore College">
 
-*Level 5, Moore College level 5 waiting room*
+*Level 5, Moore College view of waiting room from the lifts area*
 
 
 
