@@ -38,9 +38,9 @@ Find out how to [contact us](contact_us) to request a consult.
 
 ## Where To Go For An In-person Consult
 
-We welcome in-person consults whenever possible. We can come to your office on the Camperdown campus by arrangement or you can visit our offices in Moore College.
+We welcome in-person consults whenever possible. We can come to your office on the Camperdown campus by arrangement or you can visit our offices in Moore College. We are also offering some limited in-person consulting at Westmead.
 
-Moore College is located at 1 King St Newtown (corner of Carillon Ave). Enter the building via the doors on Carillon Ave or King St. Proceed to the lifts and select level 5. Exit the lifts on level 5 - we will meet you there at the time of the scheduled consult.
+Moore College is located at 1 King St Newtown (corner of Carillon Ave). Enter the building via the doors on Carillon Ave or King St. Proceed to the lifts and select level 5. Exit the lifts on level 5 and turn left to face the reception desk - we will meet you there at the time of the scheduled consult. If you are early to the consult turn right after exiting the lifts and wait in the waiting room at the end of the corridor.
 
 <img src="assets/carillion_avenue_entrance_moore_college.jpeg" width="600" alt="Carillon Ave entrance to Moore College">
 
@@ -48,7 +48,14 @@ Moore College is located at 1 King St Newtown (corner of Carillon Ave). Enter th
 
 <img src="assets/moore_level5_lifts_v2.jpg" width="600" alt="Lifts on level 5 of Moore College">
 
-*Level 5, Moore College view from the lifts*
+*Level 5, Moore College view of reception desk from the lifts*
+
+<img src="assets/moore_college_waiting_room.jpeg" width="600" alt="Waiting room on level 5 of Moore College">
+
+*Level 5, Moore College level 5 waiting room*
+
+
+
 
 
 
