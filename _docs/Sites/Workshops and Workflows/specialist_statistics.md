@@ -21,7 +21,7 @@ In this workshop we build on the information from Surveys 1. We explore topics i
 In multivariate statistics we simultaneously model and estimate variability in more than one variable often in order to examine the relationship between variables. In this workshop we examine the key aspects of moving from univariate to multivariate analysis, and the situations and scenarios where multivariate analysis is typically applied. We will focus on practical application of concepts through examples.
    * [Multivariate Statistical Analysis 1: Dimension Reduction v2.5](assets/files/Multivariate%20Statistical%20Analysis%20v2.5.pdf)
    * Multivariate Statistical Analysis 1: Dimension Reduction R Software workflow (with reproducible code):
-     * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/multivariate_dimension_reduction_workflow.html)
+     * [Interactively browsable HTML version](assets/files/multivariate_dimension_reduction_workflow.html)
 
    [R Software workflow file: data_CA_NobelPrize_withMaths.csv](assets/files/data_CA_NobelPrize_withMaths.csv)
    [R Software workflow file: macnally_full_site.csv](assets/files/macnally_full_site.csv)
@@ -33,7 +33,7 @@ In multivariate statistics we simultaneously model and estimate variability in m
 In this workshop we provide a theoretical and practical introduction to meta-analysis as part of a systematic review. We examine the process of performing a meta-analysis, in particular focussing on key statistical concepts such as heterogeneity and fixed and random effects modelling. We will discuss the available choices of statistical software and show you worked examples using the metafor package in R. A basic knowledge of R software is desirable, but not necessary, since you are not expected to produce and run your own code during the workshop.
    * [Meta-Analysis - An Introduction v23](assets/files/Meta-Analysis%20v23.pdf)
       * Meta-Analysis - An Introduction: R Software workflow (with reproducible code):
-     * [Interactively browsable HTML version](https://html-preview.github.io/?url=https://github.com/Sydney-Informatics-Hub/stats-resources/blob/gh-pages/assets/files/Meta-Analysis_R_Software_Workflow_v1.0.html)
+     * [Interactively browsable HTML version](assets/files/Meta-Analysis_R_Software_Workflow_v1.0.html)
    * [Example Data File](assets/files/Meta_Sutton_Smith%2022-06.csv) 
 
 ## Introduction to Survival Analysis 
