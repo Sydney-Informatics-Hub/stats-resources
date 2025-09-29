@@ -14,18 +14,19 @@ This pathway consists of:
 
 ## Linear Models 1: Linear Regression, ANOVA, ANCOVA and Repeated Measures (a Simple Mixed Model) 
 In this workshop we focus on practical data analysis by presenting statistical workflows applicable in any software for four of the most common univariate analyses: linear regression, ANOVA, ANCOVA, and repeated measures (a simple mixed model) – all assuming a normal (gaussian) residual. These workflows can be easily extended to more complex models. There is also an accompanying software workflow for R.​ 
-  * [Linear Models 1 v1.35](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.35%20.27-5-2025.pdf)
+  * [Linear Models 1 v1.4](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.4%2030-9-2025.pdf)
   * Linear Models 1 R Workflows (with reproducible code):
     * [Interactively browsable HTML version](assets/files/linear_modelsI_workflow.html)
     * [PDF version](assets/files/linear_modelsI_workflow.pdf)
-                            
 
+                            
 ## Linear Models 2: Logistic and Poisson/Count Regression - An Introduction to Generalised Linear Models 
 ​In this workshop we focus on practical data analysis applicable in any software for two of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. There is also an accompanying software workflow for R.​
-  * [Linear Models 2 v2.27](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.27%202-6-2025.pdf)
+  * [Linear Models 2 v2.28](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.28%2030-9-2025.pdf)
   * Linear Models 2 R Workflows (with reproducible code):
     * [Interactively browsable HTML version](assets/files/LMII_workflow.html)
     * [PDF version](assets/files/LMII_workflow.pdf)
+
   
 ## Linear Models 3: How to build interpretable models and analyse data to extract insightful & impactful patterns, and craft an engaging research story
 Statistical analysis is more than just building the best predictive model, it should also enable you to make impactful discoveries that expand our knowledge. Constructing engaging narratives about your research is also invaluable as you look to connect with your field, the community and funding bodies. To do this you need to build interpretable models, test hypotheses, uncover insightful & impactful patterns, and present results in insightful, intuitive and memorable ways. In this workshop we explore tips and tricks to make your research do just that. Topics covered will be:
