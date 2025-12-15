@@ -11,7 +11,7 @@ product: SIH Statistics Resources
 
 [**Stat GPT**](https://statgpt.dialx.ai/)
 
-*Chris says: One of the problems with LLM's like ChatGPT is that they always want to give you what you ask for, even if it's wrong. So if you ask for data it will go find it even if that means using unreliable sources. It will report it in proffesional looking tables and visualisations, but the data may be wrong and its hard to validate. This is where StatGPT comes in - it only queries respected data sources such as the IMF, Eurostat, World Bank, and ABS. It allows you to query, transform, analyze, visualize, and interpret statistical data using a natural language interface. It will generate code to analyse it, ask pertinant questions to ensure you use it correctly to avoid bias, and highlight any issues with the data.*
+*Chris says: One of the problems with LLM's like ChatGPT is that they always want to give you what you ask for, even if it's wrong. So if you ask for data it will go find it even if that means using unreliable sources. It will report it in proffesional looking tables and visualisations, but the data may be wrong and it's hard to validate. This is where StatGPT comes in - it only queries respected data sources such as the IMF, Eurostat, World Bank, and ABS. It allows you to query, transform, analyze, visualize, and interpret statistical data using a natural language interface. It will generate code to analyse it, ask pertinant questions to ensure you use it correctly to avoid bias, and highlight any issues with the data.*
 
 [**Our World in Data**](https://ourworldindata.org/)
 
