@@ -120,6 +120,10 @@ folders:
       output: web
       subfolderitems:
 
+      - title: Data Sources & Online Analysis e.g. LLM like ChatGPT
+        jurl: /data_sources.html
+        ref: data-sources-online-analysis
+        
       - title: Basic Statistical Theory
         jurl: /basic_stat_theory.html
         ref: basic-stat-theory
