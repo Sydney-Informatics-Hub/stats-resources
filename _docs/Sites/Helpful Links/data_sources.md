@@ -22,5 +22,5 @@ product: SIH Statistics Resources
 *Chris says: state and local governments can also be reliable data sources e.g. [Open Data Qld](https://www.data.qld.gov.au/).*
 
 ### Ecological Data
-*Chris says: two good sites for ecological data are the [Atlas of Living Australia](https://www.ala.org.au/) and [Terrestrial  Ecosystem Research Network](https://www.tern.org.au/). There are likely others for marine systems as well.*
+*Chris says: two good sites for ecological data are the [Atlas of Living Australia](https://www.ala.org.au/) and [Terrestrial  Ecosystem Research Network (TERN)](https://www.tern.org.au/). There are likely others for marine systems as well.*
 
