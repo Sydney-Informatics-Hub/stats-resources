@@ -1,5 +1,5 @@
 ---
-title: Data Sources & Online Analysis e.g. LLM like ChatGPT  
+title: Data Sources & Online Analysis e.g. LLM better than ChatGPT  
 permalink: data_sources.html
 sidebar: sidebar
 product: SIH Statistics Resources
