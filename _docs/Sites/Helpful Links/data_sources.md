@@ -15,7 +15,7 @@ product: SIH Statistics Resources
 
 [**Our World in Data**](https://ourworldindata.org/)
 
-*Chris says: Another good sources of global data. Their goal being to publish the ”research and data to make progress against the world’s largest problems” [Our World in Data](https://ourworldindata.org/about). Hans Rosling and his Gapminder software were an inspiration, if you've never seen his amazing visualisation work check out this short video he did with the BBC [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)*
+*Chris says: Another good source of global data. Their goal being to publish the ”research and data to make progress against the world’s largest problems” [Our World in Data](https://ourworldindata.org/about). Hans Rosling and his Gapminder software were an inspiration, if you've never seen his amazing visualisation work check out this short video he did with the BBC [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)*
 
 
 ### State and Local Governments
