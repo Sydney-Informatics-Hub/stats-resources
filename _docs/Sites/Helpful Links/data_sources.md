@@ -13,7 +13,8 @@ product: SIH Statistics Resources
 
 *Chris says: One of the problems with LLM's like ChatGPT is that they always want to give you what you ask for, even if it's wrong. So if you ask for data it will go find it even if that means using unreliable sources. It will report it in proffesional looking tables and visualisations, but the data may be wrong and its hard to validate. This is where StatGPT comes in - it only queries respected data sources such as IMF, Eurostat and World Bank, and the ABS. It allows you to query, transform, analyze, visualize, and interpret statistical data using a natural language interface. It will generate code to analyse it, ask pertinant questions to ensure you use it correctly to avoid bias, and highlight any issues with the data.*
 
-[**Our World in Data**](https://www.abs.gov.au/)https://ourworldindata.org/
+[**Our World in Data**](https://ourworldindata.org/)
+
 *Chris says: Another good sources of global data. Their goal being to publish the ”research and data to make progress against the world’s largest problems” [Our World in Data]([https://www.data.qld.gov.au/](https://ourworldindata.org/about). Hans Rosling and his Gapminder software were an inspiration, if you've never seen his amazing visualisation work check this short video he did with the BBC [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)*
 
 
