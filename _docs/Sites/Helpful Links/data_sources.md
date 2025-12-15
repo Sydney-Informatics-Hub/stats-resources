@@ -1,6 +1,6 @@
 ---
 title: Data Sources and Repositories
-permalink:data_sources.html
+permalink: data_sources.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
