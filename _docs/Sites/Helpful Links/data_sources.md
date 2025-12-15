@@ -15,11 +15,11 @@ product: SIH Statistics Resources
 
 [**Our World in Data**](https://ourworldindata.org/)
 
-*Chris says: Another good source of global data. Their goal being to publish the ”research and data to make progress against the world’s largest problems”. Hans Rosling and his Gapminder software were an inspiration, if you've never seen his amazing visualisation work check out this short video he did with the BBC [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)*
+*Chris says: Another good source of global data. Their goal being to publish the ”research and data to make progress against the world’s largest problems”. Hans Rosling and his Gapminder software were an inspiration, if you've never seen his amazing visualisation work check out this short video he did with the BBC [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo).*
 
 
 ### State and Local Governments
-*Chris says: state and local governments can also be reliable data sources e.g. [Open Data Qld](https://www.data.qld.gov.au/)*
+*Chris says: state and local governments can also be reliable data sources e.g. [Open Data Qld](https://www.data.qld.gov.au/).*
 
 ### Ecological Data
 *Chris says: two good sites for ecological data are the [Atlas of Living Australia](https://www.ala.org.au/) and [Terrestrial  Ecosystem Research Network](https://www.tern.org.au/). There are likely others for marine systems as well.*
