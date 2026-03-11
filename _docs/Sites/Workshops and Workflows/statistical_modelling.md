@@ -35,7 +35,7 @@ Statistical analysis is more than just building the best predictive model, it sh
   3. **Building interpretable models** – it’s quite common for researchers to incorrectly use model parameters to establish variables ‘impact’ or ‘importance’ . We show how multi-collinearity prevents this interpretation, and how to assess and then fix it so parameters can be used to identify important predictor/risk factors and other insightful patterns.
   4. **Mixed models** – extend the Linear Model 1 intro to: i) better explain how mixed models work, ii) use them to test population wide hypotheses outside your sampled groups, iii) use a random slope (with examples of the patterns it can explain and hypotheses it can test).
   5. **Using data visualisation to report complex nonlinear models graphically and aid pattern extraction**
-  * [Linear Models 3 v1.51](assets/files/Linear%20Models%20III%20Model%20building%20tips%2C%20extracting%20patterns%2C%20crafting%20engaging%20stories%20HANDOUTS%20v1.51%2022-7-2024.pdf)
+  * [Linear Models 3 v2](assets/files/Linear%20Models%20III%20Model%20building%20tips%2C%20extracting%20patterns%2C%20crafting%20engaging%20stories%20HANDOUTS%20v2%2010-3-2026.pdf)
 
 
 ## Statistical Model Building 
