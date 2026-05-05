@@ -30,8 +30,8 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 
 ## Jamovi - Easy to use menu driven sofware like SPSS that uses R
-If you want to avoid coding it’s worth looking at **[Jamovi](https://docs.jamovi.org/index.html)** as an alternative to SPSS, GraphPAd, etc. It’s a menu driven version of R. So gets you access to many of R’s best practice analyses without coding. It also gives you the R syntax, so can be a gentle introduction to coding.
-
+If you’d prefer to avoid coding, it’s worth exploring **[Jamovi](https://docs.jamovi.org/index.html)** as an alternative to tools like SPSS or GraphPad. Jamovi provides a user-friendly, menu-driven interface built on R, giving you access to many of R’s best-practice statistical methods without needing to write code. It also displays the underlying R syntax for each analysis, making it a helpful, low-friction way to start learning coding over time.
+ 
 
 ## SPSS
 
