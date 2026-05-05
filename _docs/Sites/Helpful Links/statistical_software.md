@@ -29,6 +29,10 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 *Ali says: The final fit pacakge is great for exploring missing data in your dataset by (1) producing plots to explore patterns of missingness, (2) incorporating missing data into your demographic tables and (3) checking for patterns between your missing and observed data.* 
 
 
+## Jamovi - Easy to use menu driven sofware like SPSS that uses R
+If you want to avoid coding it’s worth looking at Jamovi(https://docs.jamovi.org/index.html) as an alternative to SPSS, GraphPAd, etc. It’s a menu driven version of R. So gets you access to many of R’s best practice analyses without coding. It also gives you the R syntax, so can be a gentle introduction to coding.
+
+
 ## SPSS
 
 **How to download SPSS**
