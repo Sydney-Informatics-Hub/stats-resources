@@ -40,7 +40,7 @@ Statistical analysis is more than just building the best predictive model, it sh
 
 ## Statistical Model Building 
 In this workshop we will introduce you to the key aspects and strategies of statistical model building to help you answer your research question, and avoid common pitfalls, erroneous models and incorrect conclusions. Appropriate statistical model building will help you to gain knowledge, as opposed to simply getting the best prediction (although that can be a goal as well). We will focus on concepts such as variable selection, multi-collinearity, interactions, selecting a model building strategy, comparing models and evaluating models. In general, these concepts are useful for any statistical model building. This workshop will provide generalised linear regression model examples. The focus will be on practical application of concepts, so mathematical descriptions will be kept to a minimum.
-  * [Statistical Model Building v1.11](assets/files/Model Building workshop v1.11 10-06-2026 HANDOUT.pdf)
+  * [Statistical Model Building v1.11][assets/files/Model Building workshop v1.11 10-06-2026 HANDOUT.pdf](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/354b2d25927b1ee78bc6aa0468b1e9a8f29733a1/assets/files/Model%20Building%20workshop%20v1.11%2010-06-2026%20HANDOUT.pdf)
 
 
 
