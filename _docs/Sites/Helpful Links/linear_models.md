@@ -13,3 +13,8 @@ product: SIH Statistics Resources
 **[Interpretable Models - When accounting for confounders is just dodgy accounting](assets/files/Interpretable%20Models%20-%20When%20accounting%20for%20confounders%20is%20just%20dodgy%20accounting%20v3%206-5-2025.pdf)**
 
 *Chris says: Researchers often want to account/correct/control/etc for various cofounders. This short presentation explores how this can be done, and a common mistake researchers often make.*
+
+
+**[A versatile workflow for linear modelling in R](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2023.1065273/full)**
+
+*Omar says: A fantastic R workflow which has many of the steps we commonly use in our own modelling.*
