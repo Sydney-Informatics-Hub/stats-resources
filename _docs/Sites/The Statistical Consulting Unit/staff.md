@@ -9,7 +9,7 @@ product: SIH Statistics Resources
 
 ![The Statistical Consulting Unit](assets/SIH_SCU_2026_photo1_cropped.png)
 
-*Our team in 2026, from left, Ali, Kathrin, Chris, Omar and Jim*
+*Our team in 2026, from left, Ali, Kathrin, Chris, Omar and Jim.*
 
 ## Our Current Staff
 
