@@ -14,15 +14,15 @@ This pathway consists of:
 
 ## Linear Models 1: Linear Regression, ANOVA, ANCOVA and Repeated Measures (a Simple Mixed Model) 
 In this workshop we focus on practical data analysis by presenting statistical workflows applicable in any software for four of the most common univariate analyses: linear regression, ANOVA, ANCOVA, and repeated measures (a simple mixed model) – all assuming a normal (gaussian) residual. These workflows can be easily extended to more complex models. There is also an accompanying software workflow for R.​ 
-  * [Linear Models 1 v2](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v2%2022-4-2026.pdf)
-  * Linear Models 1 R Workflows (with reproducible code):
+  * [Linear Models 1 v2.3](assets/files/Linear%20Models%20I%20Regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v2.3%2013-10-2026.pdf)
+    * Linear Models 1 R Workflows (with reproducible code):
     * [Interactively browsable HTML version](assets/files/linear_modelsI_workflow.html)
     * [PDF version](assets/files/linear_modelsI_workflow.pdf)
 
                             
 ## Linear Models 2: Logistic and Poisson/Count Regression - An Introduction to Generalised Linear Models 
 ​In this workshop we focus on practical data analysis applicable in any software for two of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. There is also an accompanying software workflow for R.​
-  * [Linear Models 2 v3](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v3%2024-6-2026.pdf)
+  * [Linear Models 2 v3.5](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression%20-%20GLM%20intro%20HANDOUTS%20v3.5%2013-10-2026.pdf)
   * Linear Models 2 R Workflows (with reproducible code):
     * [Interactively browsable HTML version](assets/files/LMII_workflow.html)
     * [PDF version](assets/files/LMII_workflow.pdf)
